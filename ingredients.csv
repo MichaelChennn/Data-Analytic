@@ -1,0 +1,4343 @@
+,match,ingredients,diet
+0,0,hazelnuts,Vegan
+0,1,broccoli florets,Vegan
+0,2,fresh parsley leaves,Vegan
+0,3,olive oil,Vegan
+0,4,mint leaf,Vegan
+0,5,lemon juice,Vegan
+0,6,lemon zest,Vegan
+0,7,capers,Vegan
+0,8,garlic cloves,Vegan
+0,9,farfalle pasta,Vegan
+1,0,celery,Vegan
+1,1,onion,Vegan
+1,2,butter,Vegetarian
+1,3,chicken broth,Omnivore
+1,4,long grain rice,Vegan
+1,5,unsalted cashews,Vegan
+1,6,chutney,Vegan
+1,7,salt,Vegan
+1,8,pepper,Vegan
+2,0,copycat taco bell seasoned beef,Omnivore
+2,1,yellow onion,Vegan
+2,2,green bell pepper,Vegan
+2,4,ground cumin,Vegan
+2,5,kosher salt,Vegan
+2,6,whole black peppercorns,Vegan
+2,7,tomato paste,Vegan
+2,8,red wine vinegar,Vegan
+2,9,cheddar cheese,Vegetarian
+2,10,velveeta cheese,Vegetarian
+2,11,frozen french fries,Vegan
+2,12,sweet paprika,Vegan
+2,13,chili powder,Vegan
+2,15,cumin,Vegan
+2,16,garlic powder,Vegan
+2,17,sour cream,Vegetarian
+2,18,tomatoes,Vegan
+3,0,unsalted butter,Vegetarian
+3,2,carrots,Vegan
+3,3,garlic,Vegan
+3,5,cayenne pepper,Vegan
+3,6,flour,Vegan
+3,7,milk,Vegetarian
+3,8,chicken,Omnivore
+3,9,vegetable broth,Vegan
+3,10,yukon gold potatoes,Vegan
+3,11,sharp cheddar cheese,Vegetarian
+3,12,green onion,Vegan
+4,0,unflavored gelatin,Vegan
+4,1,water,Vegan
+4,2,sugar,Vegan
+5,1,red onion,Vegan
+5,2,diced tomatoes,Vegan
+5,3,brown sugar,Vegan
+6,0,pecans,Vegan
+6,1,walnuts,Vegan
+6,3,margarine,Vegan
+6,4,pumpkin pie spice,Vegan
+6,5,jellied cranberry sauce,Vegan
+6,7,eggs,Vegetarian
+6,8,pumpkin,Vegan
+6,9,sweetened condensed milk,Vegetarian
+6,10,pure vanilla extract,Vegan
+7,0,lean ground beef,Omnivore
+7,1,onions,Vegan
+7,2,italian tomatoes,Vegan
+7,3,pimientos,Vegan
+7,5,tomato sauce,Vegan
+7,7,black pepper,Vegan
+8,0,icing sugar,Vegan
+8,1,vanilla extract,Vegan
+8,2,vinegar,Vegan
+8,3,cornstarch,Vegan
+8,4,cornflour,Vegan
+8,5,heavy whipping cream,Vegetarian
+8,7,fresh strawberries,Vegan
+8,8,fresh raspberries,Vegan
+8,9,kiwi fruit,Vegan
+8,10,cherries,Vegan
+8,12,coconut flakes,Vegan
+9,0,vodka,Vegan
+9,1,dark creme de cacao,Vegan
+9,2,amarula cream liqueur,Vegetarian
+9,3,chocolate ice cream,Vegetarian
+10,0,wheat germ,Vegan
+10,1,active dry yeast,Vegan
+10,6,molasses,Vegan
+11,0,ground beef,Omnivore
+11,3,green beans,Vegan
+11,5,sea salt,Vegan
+11,6,dried parsley,Vegan
+11,7,dried basil,Vegan
+11,10,cheese,Vegetarian
+12,0,malibu rum,Vegan
+12,1,heavy cream,Vegetarian
+12,2,coconut,Vegan
+13,0,pickles,Vegan
+13,1,light mayonnaise,Vegetarian
+13,3,dijon mustard,Vegan
+14,0,dry mustard,Vegan
+14,2,celery seed,Vegan
+14,6,ketchup,Vegan
+14,7,paprika,Vegan
+14,8,bacon bits,Omnivore
+15,0,shortening,Vegan
+15,1,egg,Vegetarian
+15,3,orange marmalade,Vegan
+15,4,cake flour,Vegan
+15,5,baking powder,Vegan
+15,6,baking soda,Vegan
+15,7,cinnamon,Vegan
+15,8,ginger,Vegan
+15,10,boiling water,Vegan
+16,1,fresh cilantro,Vegan
+16,2,chipotle chiles,Vegan
+16,3,lime zest,Vegan
+16,5,dry sherry,Vegan
+16,6,fresh lime juice,Vegan
+16,7,soy sauce,Vegan
+17,0,graham crackers,Vegan
+17,2,crushed pineapple,Vegan
+17,3,bananas,Vegan
+17,4,cream cheese,Vegetarian
+17,5,powdered sugar,Vegan
+17,6,french vanilla instant pudding,Vegetarian
+17,7,cool whip,Vegetarian
+19,0,roasting chickens,Omnivore
+19,4,fresh ground black pepper,Vegan
+19,5,ground turmeric,Vegan
+19,7,dried thyme,Vegan
+19,9,coconut milk,Vegetarian
+19,10,tomato puree,Vegan
+20,0,rice,Vegan
+20,4,yellow onions,Vegan
+20,7,swiss cheese,Vegetarian
+20,9,parsley,Vegan
+21,0,apples,Vegan
+21,1,raisins,Vegan
+21,2,sherry wine,Vegan
+21,5,mixed spice,Vegan
+22,2,ground cinnamon,Vegan
+22,7,carrot,Vegan
+24,1,light brown sugar,Vegan
+24,5,vanilla,Vegan
+26,0,chicken breast fillets,Omnivore
+26,1,camembert cheese,Vegetarian
+26,4,onion powder,Vegan
+26,5,tarragon,Vegan
+26,6,parmesan cheese,Vegetarian
+27,1,chili beans,Vegan
+27,4,lemon pepper,Vegan
+27,5,oregano,Vegan
+27,9,heinz ketchup,Vegan
+27,10,tabasco sauce,Vegan
+28,0,fresh blueberries,Vegan
+28,4,vanilla pudding mix,Vegetarian
+29,0,dates,Vegan
+29,2,fig,Vegan
+30,0,fettuccine,Vegan
+30,2,shrimp,Vegan
+31,2,honey,Vegetarian
+31,5,fresh thyme,Vegan
+32,0,caster sugar,Vegan
+32,3,cocoa powder,Vegan
+33,0,navel orange,Vegan
+34,2,asparagus spears,Vegan
+34,4,phyllo pastry,Vegan
+34,5,parma ham,Omnivore
+35,1,warm water,Vegan
+35,2,unbleached flour,Vegan
+35,3,whole wheat flour,Vegan
+35,8,light butter,Vegetarian
+36,0,granulated sugar,Vegan
+36,8,white chocolate chips,Vegan
+36,9,dried cranberries,Vegan
+37,1,black beans,Vegan
+37,2,tortilla chips,Vegan
+38,3,diced pimentos,Vegan
+38,4,dry white wine,Vegan
+38,6,frozen chopped spinach,Vegan
+38,7,cottage cheese,Vegetarian
+38,8,ricotta cheese,Vegetarian
+39,1,vanilla bean,Vegan
+39,2,lemon peel,Vegan
+40,0,boneless chicken breast,Omnivore
+40,1,baby shrimp,Vegan
+40,3,strawberries,Vegan
+40,4,hoisin sauce,Vegan
+40,6,mint,Vegan
+40,8,lime juice,Vegan
+41,3,red bell pepper,Vegan
+41,4,fresh tomatoes,Vegan
+41,5,diced green chilies,Vegan
+41,6,fresh garlic,Vegan
+41,8,dark red kidney beans,Vegan
+41,9,great northern beans,Vegan
+41,10,vegetarian refried beans,Vegan
+42,0,sweet potatoes,Vegan
+42,1,corn,Vegan
+42,3,shallot,Vegan
+42,4,spinach,Vegan
+42,6,mozzarella cheese,Vegetarian
+43,3,pine nuts,Vegan
+44,7,coconut oil,Vegan
+44,8,maple syrup,Vegan
+45,1,provolone cheese,Vegetarian
+45,2,eggplants,Vegan
+46,3,ground black pepper,Vegan
+47,3,creme fraiche,Vegan
+48,0,sweet onion,Vegan
+48,1,bacon,Omnivore
+48,2,elbow macaroni,Vegan
+48,8,nutmeg,Vegan
+49,0,boneless skinless chicken breast,Omnivore
+49,2,fresh mushrooms,Vegan
+49,6,chicken bouillon granules,Omnivore
+49,8,extra virgin olive oil,Vegan
+50,1,cherry brandy,Vegan
+51,0,thick slab bacon,Omnivore
+51,3,leeks,Vegan
+51,5,celery rib,Vegan
+51,6,beef broth,Omnivore
+51,7,seasoning salt,Vegan
+51,8,white pepper,Vegan
+51,9,potatoes,Vegan
+51,10,white kidney beans,Vegan
+51,11,navy beans,Vegan
+52,0,frozen hash browns,Vegan
+52,1,pork sausage,Omnivore
+52,6,evaporated milk,Vegetarian
+52,8,parsley flakes,Vegan
+53,0,radishes,Vegan
+53,1,daikon radish,Vegan
+54,0,lemon twists,Vegan
+54,1,lime twist,Vegan
+55,1,sweet potato,Vegan
+56,1,zucchini,Vegan
+56,3,chickpea flour,Vegan
+56,4,soymilk,Vegan
+57,1,fresh rosemary,Vegan
+57,3,skinless chicken thighs,Omnivore
+59,0,fresh asparagus,Vegan
+59,2,cabbage,Vegan
+59,4,sunflower seeds,Vegan
+60,1,garlic clove,Vegan
+61,2,rice vinegar,Vegan
+61,3,low sodium soy sauce,Vegan
+61,7,avocados,Vegan
+62,0,green cabbage,Vegan
+62,1,green onions,Vegan
+62,2,sesame seeds,Vegan
+62,4,white vinegar,Vegan
+62,8,msg,Vegan
+63,1,white sugar,Vegan
+63,4,accent seasoning,Vegan
+63,7,lettuce,Vegan
+64,3,shallots,Vegan
+64,5,crushed tomatoes,Vegan
+64,6,coarse salt,Vegan
+64,8,pasta,Vegan
+64,10,fresh basil,Vegan
+65,0,lean bacon,Omnivore
+65,1,sausages,Vegan
+65,5,parsnips,Vegan
+65,6,hard alcoholic cider,Vegan
+65,7,fresh parsley,Vegan
+66,3,prosciutto,Vegan
+66,4,whole tomatoes,Vegan
+66,8,penne pasta,Vegan
+67,0,chicken breasts,Omnivore
+67,4,bell pepper,Vegan
+68,4,chorizo sausage,Omnivore
+68,5,ham,Omnivore
+69,0,red bell peppers,Vegan
+69,4,white wine vinegar,Vegan
+69,5,butter lettuce leaf,Vegetarian
+70,0,lamb chops,Omnivore
+70,1,dried rosemary,Vegan
+70,5,dried oregano,Vegan
+70,8,brown lentils,Vegan
+71,3,fresh ginger,Vegan
+71,4,fresh lemongrass,Vegan
+71,6,thai fish sauce,Omnivore
+71,8,reduced sodium soy sauce,Vegan
+71,14,cilantro leaf,Vegan
+72,0,cooked pork,Omnivore
+72,1,barbecue sauce,Vegan
+72,2,yellow rice,Vegan
+72,3,spanish rice,Vegan
+73,1,hot red chili peppers,Vegan
+73,4,ground ginger,Vegan
+74,0,sweet onions,Vegan
+74,5,dill weed,Vegan
+74,6,frozen corn,Vegan
+75,0,broccoli,Vegan
+75,1,baking potatoes,Vegan
+76,0,mayonnaise,Vegetarian
+76,1,apple cider vinegar,Vegan
+77,6,gruyere cheese,Vegetarian
+78,1,pure maple syrup,Vegan
+78,3,fresh lemon juice,Vegan
+78,13,bay leaves,Vegan
+78,15,turkey,Omnivore
+79,0,cucumber,Vegan
+79,1,green pepper,Vegan
+79,5,worcestershire sauce,Vegan
+79,7,basil,Vegan
+79,10,canola oil,Vegan
+79,11,tomato juice,Vegan
+80,0,chickpeas,Vegan
+81,2,nonfat milk,Vegetarian
+81,5,white button mushrooms,Vegan
+81,7,light chunk tuna in water,Vegan
+82,1,wine vinegar,Vegan
+83,0,eggplant,Vegan
+83,3,green chilies,Vegan
+83,4,ground coriander,Vegan
+83,6,garam masala,Vegan
+84,0,plain flour,Vegan
+84,5,mushrooms,Vegan
+85,1,herb stuffing mix,Vegan
+86,0,canned pumpkin puree,Vegan
+86,11,ground cloves,Vegan
+86,12,allspice,Vegan
+87,1,peanut butter,Vegetarian
+88,1,vegetable shortening,Vegan
+88,5,buttermilk,Vegan
+88,7,flaked coconut,Vegan
+89,7,mustard,Vegan
+90,1,dried oregano leaves,Vegan
+90,6,boneless skinless chicken breast halves,Omnivore
+92,5,sambal oelek,Vegan
+92,7,oyster sauce,Vegan
+92,9,tuna,Vegan
+93,0,macaroni,Vegan
+93,9,chicken bouillon cubes,Omnivore
+93,12,frozen corn kernels,Vegan
+93,13,frozen baby peas,Vegan
+94,0,plain gelatin,Vegan
+94,1,cold water,Vegan
+94,4,rum,Vegan
+95,0,salmon fillet,Omnivore
+95,1,lemons,Vegan
+95,2,miracle whip,Vegetarian
+95,3,dill,Vegan
+98,2,raw cashews,Vegan
+99,3,plain yogurt,Vegetarian
+100,2,fresh cilantro leaves,Vegan
+100,3,canned chipotle chiles,Vegan
+101,3,green zucchini,Vegan
+101,5,low sodium chicken broth,Omnivore
+102,1,chopped tomatoes,Vegan
+102,4,bay leaf,Vegan
+102,7,pesto sauce,Vegan
+103,0,pineapple chunks,Vegan
+104,0,dry red wine,Vegan
+105,2,flour tortillas,Vegan
+106,1,hot water,Vegan
+106,2,dark molasses,Vegan
+106,12,lemon slice,Vegan
+107,1,dried cherries,Vegan
+109,0,monterey jack cheese,Vegetarian
+109,4,sausage,Omnivore
+109,6,mushroom,Vegan
+111,0,cooking apples,Vegan
+111,1,blackberries,Vegan
+112,10,yellow bell pepper,Vegan
+112,13,dried cilantro,Vegan
+114,0,mashed sweet potatoes,Vegan
+115,8,plums,Vegan
+118,0,anaheim chili,Vegan
+118,1,roasted sunflower seeds,Vegan
+118,9,cotija cheese,Vegetarian
+118,10,feta cheese,Vegetarian
+118,14,whole cumin seed,Vegan
+120,6,whole chicken,Omnivore
+121,0,pineapple slice,Vegan
+122,2,green peppers,Vegan
+122,7,cooked pasta,Vegan
+123,1,fresh broccoli florets,Vegan
+124,1,white corn,Vegan
+124,4,low sodium beef broth,Omnivore
+124,5,salted butter,Vegetarian
+125,3,potato,Vegan
+125,5,chives,Vegan
+127,0,rhubarb,Vegan
+127,2,cider vinegar,Vegan
+127,4,table salt,Vegan
+128,2,fat free sour cream,Vegetarian
+129,4,rosemary,Vegan
+129,7,fresh ground pepper,Vegan
+131,3,pitted black olives,Vegan
+131,4,small capers,Vegan
+132,0,boneless chicken breasts,Omnivore
+132,5,prepared yellow mustard,Vegan
+132,7,lemon,Vegan
+132,8,horseradish,Vegan
+134,0,hamburger,Vegan
+135,0,seedless grapes,Vegan
+135,1,mandarin orange segments,Vegan
+135,2,water chestnuts,Vegan
+136,4,granola cereal,Vegan
+137,1,water chestnut,Vegan
+138,0,dried sweetened cranberries,Vegan
+138,1,fresh cranberries,Vegan
+138,2,frozen cranberries,Vegan
+138,4,orange zest,Vegan
+138,6,ground cardamom,Vegan
+140,0,celeriac,Vegan
+140,1,chinese cabbage,Vegan
+140,3,celery ribs,Vegan
+140,4,cilantro,Vegan
+140,5,fresh mint leaves,Vegan
+140,7,french baguette,Vegan
+141,0,bourbon,Vegan
+141,1,light soy sauce,Vegan
+142,0,pearl tapioca,Vegan
+145,0,spaghetti,Vegan
+145,2,black olives,Vegan
+145,4,cauliflower florets,Vegan
+145,7,artichoke heart,Vegan
+147,0,smoked trout fillets,Vegan
+149,2,tortillas,Vegan
+149,3,peas,Vegan
+149,7,canned corn niblet,Vegan
+149,9,salsa,Vegan
+150,0,sea scallops,Vegan
+150,7,scallion,Vegan
+151,0,steel cut oats,Vegan
+151,4,crystallized ginger,Vegan
+151,9,pistachios,Vegan
+153,0,granny smith apples,Vegan
+153,4,quaker oats,Vegan
+154,6,thyme,Vegan
+154,9,sage,Vegan
+155,3,brown rice,Vegan
+155,7,corn kernel,Vegan
+155,10,fresh black pepper,Vegan
+156,0,raw shrimp,Vegan
+156,2,cracked black pepper,Vegan
+157,0,mussels,Vegan
+157,4,pernod,Vegan
+157,7,real butter,Vegetarian
+158,2,white potatoes,Vegan
+158,9,dried parsley flakes,Vegan
+159,2,mashed potatoes,Vegan
+161,2,sliced ripe olives,Vegan
+161,3,jalapeno chiles,Vegan
+161,6,yellow cornmeal,Vegan
+161,8,monterey jack and cheddar cheese blend,Vegetarian
+162,1,cream of tartar,Vegetarian
+162,6,pandan extract,Vegan
+163,2,cooked ham,Omnivore
+166,3,unsweetened applesauce,Vegan
+166,4,splenda sugar substitute,Vegan
+166,5,egg beaters egg substitute,Vegetarian
+168,1,tomato ketchup,Vegan
+169,0,crushed red pepper flakes,Vegan
+169,5,diced tomatoes with juice,Vegan
+171,3,jalapeno chile,Vegan
+171,6,ground fennel,Vegan
+171,8,ground allspice,Vegan
+171,10,turmeric,Vegan
+171,13,cauliflower,Vegan
+171,16,unsweetened coconut milk,Vegetarian
+172,0,endive,Vegan
+172,2,dried dill,Vegan
+172,3,grapefruit,Vegan
+174,9,crawfish,Vegan
+174,10,cooked rice,Vegan
+175,1,fresh herbs,Vegan
+175,2,dried herbs,Vegan
+175,4,lemon rind,Vegan
+176,0,raspberries,Vegan
+176,1,raspberry vinegar,Vegan
+176,2,walnut oil,Vegan
+178,7,whole wheat tortillas,Vegan
+179,11,white distilled vinegar,Vegan
+180,0,scallops,Vegan
+180,6,flat leaf parsley,Vegan
+181,3,rotel,Vegan
+181,4,kidney beans,Vegan
+184,1,pistachio ice cream,Vegetarian
+184,2,vanilla ice cream,Vegetarian
+184,3,maraschino cherries,Vegan
+184,4,golden raisin,Vegan
+184,5,kirsch,Vegan
+184,6,brandy,Vegan
+184,7,maraschino cherry,Vegan
+184,8,pistachio nut,Vegan
+185,0,red kidney beans,Vegan
+185,5,gingerroot,Vegan
+186,1,light corn syrup,Vegan
+186,6,spanish peanut,Vegan
+187,0,jumbo pasta shells,Vegan
+187,4,frozen spinach,Vegan
+188,2,yellow bell peppers,Vegan
+188,3,green bell peppers,Vegan
+188,5,cannellini beans,Vegan
+188,11,plum tomatoes,Vegan
+189,3,thyme leaves,Vegan
+190,0,banana,Vegan
+191,2,season salt,Vegan
+191,4,albacore tuna,Vegan
+191,5,avocado,Vegan
+191,8,basil leaves,Vegan
+192,0,spaghetti squash,Vegan
+192,2,purple onion,Vegan
+192,7,frozen sweet corn,Vegan
+192,8,lime,Vegan
+194,2,artichoke hearts,Vegan
+195,2,light cream cheese,Vegetarian
+197,0,turkey carcass,Omnivore
+197,5,shiitake mushroom,Vegan
+197,7,bok choy,Vegan
+197,8,preserved gingerroot,Vegan
+198,0,anaheim chilies,Vegan
+198,3,fresh cilantro stem,Vegan
+199,1,fresh chives,Vegan
+199,8,romano cheese,Vegetarian
+200,1,bread flour,Vegan
+202,1,amaranth,Vegan
+203,1,lemongrass,Vegan
+204,1,yogurt,Vegetarian
+205,4,marshmallow creme,Vegetarian
+206,1,dried dill weed,Vegan
+206,2,lemon pepper seasoning,Vegan
+206,6,shoestring potatoes,Vegan
+209,0,flour tortilla,Vegan
+209,1,turkey breast,Omnivore
+209,3,lettuce leaves,Vegan
+210,0,american cheese,Vegetarian
+211,3,clove,Vegan
+211,6,white chocolate,Vegan
+213,0,beet,Vegan
+213,2,fresh green beans,Vegan
+213,5,brussels sprout,Vegan
+214,4,roma tomatoes,Vegan
+214,5,red capsicums,Vegan
+214,6,yellow capsicum,Vegan
+215,0,cornmeal,Vegan
+215,2,fast rising yeast,Vegan
+215,6,light molasses,Vegan
+216,0,skinless chicken breasts,Omnivore
+216,1,cucumbers,Vegan
+218,0,banana peppers,Vegan
+218,16,hot italian sausage,Omnivore
+220,0,green tomatoes,Vegan
+221,3,prepared mustard,Vegan
+222,1,medium pasta shell,Vegan
+222,2,swordfish steaks,Vegan
+222,6,grape tomatoes,Vegan
+222,7,scallions,Vegan
+223,0,baking potato,Vegan
+223,6,turnips,Vegan
+224,0,semolina,Vegan
+224,1,ghee,Vegan
+224,4,cardamom powder,Vegan
+225,5,instant vanilla pudding,Vegetarian
+225,6,low fat cottage cheese,Vegetarian
+226,1,boneless skinless chicken breasts,Omnivore
+226,3,chili sauce,Vegan
+227,2,anchovy fillets,Vegan
+227,5,cognac,Vegan
+229,0,bittersweet chocolate,Vegan
+230,0,watermelon,Vegan
+230,1,cranberry juice concentrate,Vegan
+231,1,snow peas,Vegan
+233,5,yellow mustard,Vegan
+234,0,falafel,Vegan
+234,2,orange,Vegan
+234,3,beetroots,Vegan
+234,6,rocket,Vegan
+235,0,ground pork,Omnivore
+235,2,fish sauce,Omnivore
+235,6,rice powder,Vegan
+235,8,chili pepper,Vegan
+236,3,sliced water chestnuts,Vegan
+236,4,french style green beans,Vegan
+238,0,black peppercorns,Vegan
+238,4,red wine,Vegan
+239,4,minced garlic cloves,Vegan
+239,6,tiny new potatoes,Vegan
+239,7,sweet peas,Vegan
+239,11,red radish,Vegan
+240,0,frying chicken,Omnivore
+240,7,canned tomato,Vegan
+241,8,chocolate chips,Vegan
+242,0,sauerkraut,Vegan
+243,0,romaine lettuce,Vegan
+243,1,cherry tomatoes,Vegan
+244,3,herbs,Vegan
+245,1,tart apples,Vegan
+247,7,ground nutmeg,Vegan
+248,1,pico de gallo,Vegan
+248,2,fresh marjoram,Vegan
+252,5,grand marnier,Vegan
+253,5,canned stewed tomatoes,Vegan
+255,2,real maple syrup,Vegan
+258,0,red sweet potatoes,Vegan
+258,6,ground mace,Vegan
+260,1,head of garlic,Vegan
+260,2,lemon peel strips,Vegan
+260,4,oregano sprigs,Vegan
+261,2,black mustard seeds,Vegan
+261,5,fresh chili peppers,Vegan
+261,13,fresh coriander,Vegan
+263,4,distilled white vinegar,Vegan
+264,0,pecan pieces,Vegan
+264,1,unsalted dry roasted peanuts,Vegan
+264,2,celery seeds,Vegan
+265,4,apple,Vegan
+267,0,pitted dates,Vegan
+267,1,dried fig,Vegan
+268,4,chilies,Vegan
+268,6,cointreau liqueur,Vegan
+268,7,white wine,Vegan
+269,0,french vanilla pudding mix,Vegetarian
+269,1,ladyfingers,Vegan
+269,3,frozen strawberries,Vegan
+271,0,basmati rice,Vegan
+273,2,bulk italian sausage,Omnivore
+273,8,marsala wine,Vegan
+274,1,english peas,Vegan
+275,2,triple sec,Vegan
+275,4,amaretto liqueur,Vegan
+275,5,cranberry juice,Vegan
+283,0,beef eye round,Omnivore
+284,5,applesauce,Vegan
+285,0,sourdough baguette,Vegan
+285,5,red pepper flakes,Vegan
+286,0,oranges,Vegan
+286,2,cayenne,Vegan
+287,3,dark rum,Vegan
+288,2,fennel bulb,Vegan
+288,6,dill leaves,Vegan
+291,0,beef round steak,Omnivore
+291,11,beef bouillon cube,Omnivore
+293,0,bacon fat,Omnivore
+294,1,cashews,Vegan
+294,5,coriander leaves,Vegan
+295,0,ginger ale,Vegan
+298,0,almond butter,Vegetarian
+301,0,raspberries in juice,Vegan
+301,2,mint sprig,Vegan
+302,0,pineapple,Vegan
+302,1,papayas,Vegan
+302,4,sago,Vegan
+302,6,pandan leaves,Vegan
+303,1,panir,Vegan
+303,2,ginger paste,Vegan
+303,3,garlic paste,Vegan
+304,0,gram flour,Vegan
+305,0,tuna in olive oil,Vegan
+306,0,beef tenderloin,Omnivore
+306,5,peppercorn,Vegan
+308,4,fresh parsley sprig,Vegan
+309,0,tarragon vinegar,Vegan
+309,7,small potato,Vegan
+309,8,bibb lettuce,Vegan
+310,2,miniature marshmallows,Vegan
+311,3,broth,Vegan
+311,9,deli corned beef,Omnivore
+312,0,cranberries,Vegan
+312,2,tangerine juice,Vegan
+312,4,cinnamon stick,Vegan
+315,0,quick oats,Vegan
+315,2,ground flax seeds,Vegan
+315,7,frozen blueberries,Vegan
+319,0,button mushrooms,Vegan
+319,1,shiitake mushrooms,Vegan
+319,6,baguette,Vegan
+320,3,dried basil leaves,Vegan
+321,3,saffron thread,Vegan
+321,7,fresh italian parsley,Vegan
+322,3,beefsteak tomatoes,Vegan
+323,4,condensed beef broth,Omnivore
+323,8,small shell pasta,Vegan
+325,5,mixed herbs,Vegan
+326,3,peanuts,Vegan
+327,0,cantaloupe,Vegan
+327,1,honeydew,Vegan
+328,2,oatmeal,Vegan
+328,4,canned pumpkin,Vegan
+329,2,whole cloves,Vegan
+329,3,star anise,Vegan
+329,8,top round steaks,Vegan
+329,9,thai basil,Vegan
+329,10,serrano chilies,Vegan
+329,11,bean sprouts,Vegan
+331,0,lamb,Omnivore
+332,0,apple cider,Vegan
+332,4,cinnamon sticks,Vegan
+333,5,fresh oregano,Vegan
+336,0,ground turkey,Omnivore
+336,2,firm tofu,Vegan
+337,4,fresh thyme leave,Vegan
+337,8,asparagus spear,Vegan
+339,3,cream sherry,Vegetarian
+342,6,rolled oats,Vegan
+342,7,whole berry cranberry sauce,Vegan
+343,0,medium shrimp,Vegan
+343,2,panko breadcrumbs,Vegan
+347,4,lime peel,Vegan
+348,0,stewed tomatoes,Vegan
+349,4,artificial sweetener,Vegan
+349,6,mangoes,Vegan
+349,7,sweetened flaked coconut,Vegan
+353,0,dried navy beans,Vegan
+355,0,asparagus,Vegan
+355,1,prosciutto di parma,Vegan
+355,7,dry crushed red pepper,Vegan
+355,8,italian plum tomatoes,Vegan
+357,4,pickling lime,Vegan
+357,8,alum,Vegan
+359,0,ground coffee,Vegan
+359,2,dark brown sugar,Vegan
+359,3,dried ancho chile powder,Vegan
+359,8,beef brisket,Omnivore
+361,4,fine salt,Vegan
+365,4,catsup,Vegan
+366,9,saffron,Vegan
+366,12,green lentil,Vegan
+367,3,green chili,Vegan
+368,1,canned tomatoes,Vegan
+368,2,chipotle chiles in adobo,Vegan
+371,2,linguine,Vegan
+373,2,fresh corn kernels,Vegan
+374,3,lime rind,Vegan
+374,7,turbinado sugar,Vegan
+375,0,boneless skinless chicken,Omnivore
+376,7,gorgonzola,Vegan
+377,1,frozen okra,Vegan
+377,2,tomatoes and green chilies,Vegan
+378,5,arborio rice,Vegan
+378,8,curry powder,Vegan
+381,0,ground beef round,Omnivore
+382,0,chicken wings,Omnivore
+383,6,cornbread stuffing mix,Vegan
+384,5,crawfish tails,Vegan
+386,2,graham cracker crumbs,Vegan
+390,0,frozen green peas,Vegan
+390,2,red apple,Vegan
+391,2,fine sea salt,Vegan
+398,1,golden syrup,Vegan
+399,7,cumin powder,Vegan
+400,2,miso,Vegan
+400,3,boneless skinless chicken breast half,Omnivore
+400,4,white mushrooms,Vegan
+402,2,hass avocadoes,Vegan
+402,7,focaccia bread,Vegan
+403,0,skinless chicken pieces,Omnivore
+404,10,black sesame seed,Vegan
+406,0,dry yeast,Vegan
+407,0,butter flavor shortening,Vegetarian
+410,0,light olive oil,Vegan
+412,7,tortilla,Vegan
+413,5,pears,Vegan
+413,8,tart apple,Vegan
+413,11,currants,Vegan
+415,0,mango,Vegan
+416,0,fennel seed,Vegan
+416,5,boneless pork loin,Omnivore
+416,6,red onions,Vegan
+416,7,small white potatoes,Vegan
+417,0,smoked trout,Vegan
+417,3,fresh dill,Vegan
+419,0,boneless chicken breast halves,Omnivore
+420,0,peppercorns,Vegan
+420,5,pickling salt,Vegan
+423,0,buckwheat flour,Vegan
+423,8,vegan butter,Vegetarian
+426,1,fresh corn,Vegan
+426,3,fresh tomato,Vegan
+427,0,lump crabmeat,Vegan
+427,2,jalapeno jack cheese,Vegetarian
+429,0,salmon fillets,Omnivore
+429,9,vegetable bouillon granules,Vegan
+430,3,red chili sauce,Vegan
+433,0,dark chocolate,Vegan
+433,2,cashew nuts,Vegan
+434,6,liquid smoke,Vegan
+435,3,strawberry,Vegan
+436,0,barley,Vegan
+437,2,sweet vermouth,Vegan
+439,0,corn tortillas,Vegan
+440,0,orzo pasta,Vegan
+440,4,bocconcini,Vegan
+442,4,rotel tomatoes,Vegan
+443,2,lime wedges,Vegan
+444,1,fresh sage,Vegan
+445,3,rice wine,Vegan
+446,5,bread machine yeast,Vegan
+449,0,red leaf lettuce,Vegan
+449,3,granny smith apple,Vegan
+450,2,small curd cottage cheese,Vegetarian
+451,9,garbanzo beans,Vegan
+452,9,powdered saffron,Vegan
+455,3,coffee,Vegan
+459,0,zatarians gumbo base mix,Vegan
+459,1,oak grove smoke house gumbo base mix,Vegan
+459,3,smoked sausage,Omnivore
+459,5,long grain white rice,Vegan
+460,1,strong black coffee,Vegan
+461,6,grainy mustard,Vegan
+470,6,ground sage,Vegan
+471,0,honeydew melon,Vegan
+471,3,seedless cucumber,Vegan
+472,0,greens,Vegan
+476,1,lemon gelatin,Vegan
+476,2,red apples,Vegan
+476,3,green apple,Vegan
+480,0,chicken thigh,Omnivore
+481,0,dried black beans,Vegan
+483,1,kalamata olives,Vegan
+483,5,feta,Vegan
+485,1,white corn syrup,Vegan
+486,2,tahini,Vegan
+486,7,of fresh mint,Vegan
+488,0,pickling cucumbers,Vegan
+488,6,canning salt,Vegan
+489,5,roma tomato,Vegan
+489,7,ground mustard,Vegan
+490,0,egg substitute,Vegetarian
+490,1,pink salmon,Omnivore
+490,2,skim milk,Vegetarian
+490,5,poultry seasoning,Vegan
+491,2,artichokes,Vegan
+492,0,fontina cheese,Vegetarian
+497,1,mushroom pieces,Vegan
+498,5,light sour cream,Vegetarian
+498,8,diced tomato,Vegan
+499,3,jello gelatin,Vegan
+501,0,hazelnut syrup,Vegan
+501,1,chocolate,Vegan
+504,0,pear,Vegan
+505,3,coarse black pepper,Vegan
+505,4,idaho potatoes,Vegan
+506,0,barbecued pork,Omnivore
+506,1,whole kernel corn,Vegan
+508,1,mini marshmallows,Vegan
+509,0,dried pinto bean,Vegan
+509,4,green serrano chilies,Vegan
+511,2,red chile,Vegan
+511,4,coriander powder,Vegan
+512,7,crouton,Vegan
+513,0,pomegranate juice,Vegan
+513,3,sparkling water,Vegan
+515,3,miracle whip light,Vegetarian
+516,0,sweet italian sausage links,Omnivore
+517,0,gluten flour,Vegan
+517,6,tamari,Vegan
+519,1,instant espresso powder,Vegan
+520,2,swiss chard,Vegan
+521,2,red capsicum,Vegan
+521,4,iceberg lettuce,Vegan
+522,4,whole canned tomatoes,Vegan
+525,0,white beans,Vegan
+527,0,head cauliflower,Vegan
+527,1,arugula,Vegan
+528,3,creamy peanut butter,Vegetarian
+530,3,stout beer,Vegan
+530,6,caraway seed,Vegan
+531,4,pimiento,Vegan
+532,11,walnut halves,Vegan
+532,12,sugar snap peas,Vegan
+533,0,new potatoes,Vegan
+533,3,sherry wine vinegar,Vegan
+533,6,dry vermouth,Vegan
+538,0,stove top stuffing mix,Vegan
+538,3,salmon,Omnivore
+539,12,long grain brown rice,Vegan
+541,0,pumpkin puree,Vegan
+543,3,mustard seeds,Vegan
+546,2,red chilies,Vegan
+547,0,halibut steaks,Vegan
+548,0,tuna in water,Vegan
+550,3,turmeric powder,Vegan
+551,0,graham cracker,Vegan
+552,2,brewed coffee,Vegan
+558,0,nectarine,Vegan
+560,5,monterey jack pepper cheese,Vegetarian
+560,6,mild green chilies,Vegan
+562,0,chicken pieces,Omnivore
+562,7,ginger powder,Vegan
+562,9,russet potatoes,Vegan
+563,4,habanero pepper,Vegan
+564,2,apple pie spice,Vegan
+565,2,light soya sauce,Vegan
+565,3,dark soya sauce,Vegan
+568,0,beef liver,Omnivore
+568,1,chicken liver,Omnivore
+568,4,chicken fat,Omnivore
+569,0,sushi rice,Vegan
+569,2,seasoned rice vinegar,Vegan
+569,3,nori,Vegan
+572,0,cranberry juice cocktail,Vegan
+572,1,frozen lemon juice,Vegan
+577,1,mild italian sausage,Omnivore
+580,4,vanilla instant pudding mix,Vegetarian
+580,5,instant chocolate pudding mix,Vegetarian
+581,9,garlic granules,Vegan
+583,9,ground pepper,Vegan
+584,7,hot salsa,Vegan
+585,1,blue cheese,Vegetarian
+592,2,capsicum,Vegan
+592,4,couscous,Vegan
+594,4,oats,Vegan
+598,3,pak choi,Vegan
+598,4,brown button mushrooms,Vegan
+599,2,papaya,Vegan
+600,0,cranberry sauce,Vegan
+602,0,boneless leg of lamb,Omnivore
+603,2,fat free chicken broth,Omnivore
+607,1,white grapes,Vegan
+607,3,riesling wine,Vegan
+608,0,squid,Vegan
+610,3,saffron threads,Vegan
+612,0,whole wheat pastry flour,Vegan
+620,14,gruyere,Vegan
+621,2,candied ginger,Vegan
+622,5,polenta,Vegan
+623,0,dried funghi porcini,Vegan
+624,2,salsa verde,Vegan
+626,0,stone ground mustard,Vegan
+628,6,cooking onion,Vegan
+629,0,sirloin tip roast,Vegan
+629,7,beef bouillon cubes,Omnivore
+632,0,instant pistachio pudding mix,Vegetarian
+633,0,turkey breast tenderloins,Omnivore
+634,0,stilton cheese,Vegetarian
+634,7,celery leaves,Vegan
+634,8,dried currants,Vegan
+638,0,extra firm tofu,Vegan
+639,0,pancetta,Vegan
+639,3,brussels sprouts,Vegan
+639,5,pecorino romano cheese,Vegetarian
+641,6,miniature marshmallow,Vegetarian
+643,0,hass avocado,Vegan
+643,2,chopped tomato,Vegan
+644,1,tea bags,Vegan
+645,1,tiny peas,Vegan
+648,0,mushroom caps,Vegan
+649,9,cider,Vegan
+651,2,fennel leaves,Vegan
+652,0,rump roast,Vegan
+652,3,satay sauce,Vegan
+652,11,instant chicken bouillon granules,Omnivore
+654,5,fresh scallions,Vegan
+654,6,button mushroom,Vegan
+655,1,anise,Vegan
+655,2,fennel seeds,Vegan
+656,2,anchovies,Vegan
+661,1,leek,Vegan
+661,2,smoked streaky bacon,Omnivore
+664,1,gelatin,Vegan
+664,2,philadelphia cream cheese,Vegetarian
+664,5,cool whip topping,Vegetarian
+665,1,poppy seed,Vegan
+665,8,fresh spinach,Vegan
+666,6,bulgur,Vegan
+670,1,corned beef,Omnivore
+672,5,dried tarragon,Vegan
+673,4,sugar substitute,Vegan
+675,5,fresh lemon,Vegan
+680,6,boneless lamb shoulder,Omnivore
+682,0,catfish fillets,Vegan
+683,0,plain nonfat yogurt,Vegetarian
+683,1,cool whip lite,Vegetarian
+683,2,red delicious apples,Vegan
+687,6,penne,Vegan
+688,7,ice cream,Vegetarian
+692,8,white flour,Vegan
+693,0,boneless pork roast,Omnivore
+696,3,sparkling apple cider,Vegan
+697,2,white mushroom,Vegan
+697,12,lima beans,Vegan
+698,2,bisquick,Vegan
+704,0,italian parsley,Vegan
+704,1,cilantro leaves,Vegan
+705,0,boneless pork chops,Omnivore
+706,3,tandoori paste,Vegan
+706,4,tandoori color powder,Vegan
+706,5,cumin seeds,Vegan
+708,1,spanish onion,Vegan
+709,3,ground pecans,Vegan
+709,5,chocolate fudge pudding mix,Vegetarian
+709,7,fresh raspberry,Vegan
+711,3,white cornmeal,Vegan
+714,0,italian plums,Vegan
+714,5,old fashioned oats,Vegan
+716,0,fresh figs,Vegan
+716,3,dried plum,Vegan
+716,4,fresh apricots,Vegan
+717,0,large shrimp,Vegan
+717,4,sake,Vegan
+717,9,steamed rice,Vegan
+721,2,head white cabbage,Vegan
+721,4,mild curry powder,Vegan
+722,8,anise seed,Vegan
+723,1,golden brown sugar,Vegan
+724,2,yoghurt,Vegan
+725,6,mascarpone cheese,Vegetarian
+725,9,dark sweet cherries,Vegan
+727,7,canadian bacon,Omnivore
+727,9,sharp canadian cheddar cheese,Vegetarian
+729,0,nonfat plain yogurt,Vegetarian
+729,9,reduced fat margarine,Vegan
+730,3,key lime juice,Vegan
+731,0,bacon drippings,Omnivore
+737,2,green onion top,Vegan
+738,1,instant yeast,Vegan
+740,2,chicken drumsticks,Omnivore
+741,0,white meat chicken,Omnivore
+747,8,porcini mushroom,Vegan
+750,0,red snapper fillets,Vegan
+750,1,herb seasoning mix,Vegan
+751,3,bamboo shoots,Vegan
+751,6,dark soy sauce,Vegan
+752,3,spring onion,Vegan
+753,5,beer,Vegan
+754,0,red cabbage,Vegan
+758,7,angel hair pasta,Vegan
+759,10,fresh lemon zest,Vegan
+760,4,allspice berries,Vegan
+760,5,cloves,Vegan
+760,8,beef chuck,Omnivore
+760,16,sweet butter,Vegetarian
+761,0,red lentils,Vegan
+762,4,dry basil,Vegan
+762,5,oregano leaves,Vegan
+765,3,hot sausage,Omnivore
+769,3,orange flower water,Vegan
+769,6,demerara sugar,Vegan
+769,7,puff pastry,Vegan
+770,12,instant coffee,Vegan
+771,6,vanilla essence,Vegan
+771,7,farmer cheese,Vegetarian
+772,1,cayenne powder,Vegan
+774,0,sultana,Vegan
+778,0,dried garbanzo beans,Vegan
+781,1,ground lamb,Omnivore
+781,10,baby rocket,Vegan
+781,11,lebanese cucumber,Vegan
+782,1,chocolate flavor instant pudding and pie filling mix,Vegetarian
+782,2,ice cream sandwiches,Vegetarian
+783,0,beef stew meat,Omnivore
+785,1,limburger cheese,Vegetarian
+785,2,roquefort cheese,Vegetarian
+785,5,green olives,Vegan
+785,6,canned pimiento,Vegan
+786,2,clams,Vegan
+787,5,cumin seed,Vegan
+787,13,dry lentils,Vegan
+789,6,serrano chili,Vegan
+791,0,mcintosh apples,Vegan
+792,0,marshmallow cream,Vegetarian
+792,2,red seedless grapes,Vegan
+792,5,kiwi,Vegan
+793,5,dry milk,Vegetarian
+794,4,amaretto,Vegan
+797,15,picante salsa,Vegan
+797,16,chipotle salsa,Vegan
+799,8,dried rubbed sage,Vegan
+801,4,coconut cream,Vegetarian
+801,5,unsalted peanuts,Vegan
+802,2,xanthan gum,Vegan
+802,3,potato starch,Vegan
+802,4,tapioca flour,Vegan
+804,1,dark beer,Vegan
+804,11,green leaf lettuce,Vegan
+807,6,fresh thyme leaves,Vegan
+813,1,pineapple ring,Vegan
+814,1,cayenne pepper sauce,Vegan
+817,5,anise seeds,Vegan
+818,6,marjoram,Vegan
+819,4,graham cracker pie crust,Vegan
+822,7,duck fat,Omnivore
+824,2,fresh garlic cloves,Vegan
+824,3,bamboo shoot,Vegan
+825,7,marmalade,Vegan
+826,2,blueberries,Vegan
+832,6,kielbasa,Vegan
+833,0,roasted peanuts,Vegan
+835,0,chicken breast halves,Omnivore
+836,0,chipotle pepper,Vegan
+836,1,adobo sauce,Vegan
+840,5,dill pickles,Vegan
+848,0,beef tenderloin steaks,Omnivore
+848,3,coarse grain mustard,Vegan
+850,7,bouillon cubes,Vegan
+850,9,dry thyme leaves,Vegan
+851,3,sweet pickles,Vegan
+851,4,sweet pickle juice,Vegan
+853,4,cremini mushrooms,Vegan
+854,1,boneless skinless chicken thighs,Omnivore
+855,0,dried figs,Vegan
+855,1,prunes,Vegan
+858,5,toasted wheat germ,Vegan
+859,0,broccoli floret,Vegan
+863,1,bulk pork sausage,Omnivore
+864,1,dried sage,Vegan
+869,0,green apples,Vegan
+870,0,chicken breast,Omnivore
+870,11,cardamom,Vegan
+871,7,kale,Vegan
+875,0,breakfast sausage,Omnivore
+875,3,frozen shredded hash browns,Vegan
+876,2,dill pickle,Vegan
+876,3,fresh spinach leaves,Vegan
+878,2,pitted ripe olives,Vegan
+879,0,salt cod fish,Omnivore
+879,3,sweet pepper,Vegan
+879,6,scotch bonnet peppers,Vegan
+879,7,habanero,Vegan
+881,2,vanilla vodka,Vegan
+881,3,creme de menthe,Vegan
+882,5,sultanas,Vegan
+883,3,asiago cheese,Vegetarian
+884,1,quick oatmeal,Vegan
+884,2,oleo,Vegan
+887,4,ground cayenne pepper,Vegan
+888,6,rubbed sage,Vegan
+889,7,pecan halves,Vegan
+892,1,mandarin oranges,Vegan
+892,3,poppy seeds,Vegan
+894,1,smoked bacon,Omnivore
+895,0,small red potatoes,Vegan
+897,0,pearl barley,Vegan
+898,2,plain cornmeal,Vegan
+898,6,country ham,Omnivore
+903,3,salted peanuts,Vegan
+905,0,wasabi powder,Vegan
+905,4,lemon basil,Vegan
+905,14,zesty zucchini relish,Vegan
+907,0,lean ground turkey,Omnivore
+912,1,tangerine peel,Vegan
+912,3,coarse sea salt,Vegan
+913,0,spaghetti noodles,Vegan
+916,1,rotini pasta,Vegan
+916,2,velveeta reduced fat cheese product,Vegetarian
+917,0,fresh broccoli,Vegan
+918,7,seasoned croutons,Vegan
+922,0,rigatoni pasta,Vegan
+926,3,fresh basil leaf,Vegan
+927,0,corned beef brisket,Omnivore
+929,0,ziti pasta,Vegan
+930,6,skinless chicken breast halves,Omnivore
+937,2,minute rice,Vegan
+937,4,chicken bouillon,Omnivore
+940,0,bell peppers,Vegan
+943,0,boneless pork loin roast,Omnivore
+943,5,cremini mushroom,Vegan
+946,0,nonfat sour cream,Vegetarian
+949,3,greek oregano,Vegan
+953,1,limes,Vegan
+955,0,baking mix,Vegan
+958,1,crushed pineapple with juice,Vegan
+960,2,cooked brown rice,Vegan
+960,6,dried porcini mushrooms,Vegan
+960,10,dried marjoram,Vegan
+966,3,crunchy peanut butter,Vegetarian
+968,3,buttermilk baking mix,Vegan
+969,3,butter beans,Vegetarian
+975,1,lamb cutlets,Omnivore
+976,3,fresh spearmint,Vegan
+977,3,phyllo dough,Vegan
+978,3,condensed new england clam chowder,Vegan
+982,2,dried chives,Vegan
+984,0,duck breasts,Omnivore
+989,9,turkey broth,Omnivore
+992,2,turkey sausage,Omnivore
+994,0,kiwi fruits,Vegan
+996,2,port wine,Vegan
+997,2,cooked corned beef,Omnivore
+1000,0,corkscrew macaroni,Vegan
+1004,1,italian sausage,Omnivore
+1005,1,chicken bouillon granule,Omnivore
+1011,7,medium hot salsa,Vegan
+1013,5,guava nectar,Vegan
+1014,3,halloumi cheese,Vegetarian
+1014,9,hot chili powder,Vegan
+1016,8,hominy,Vegan
+1016,11,skinless chicken breast,Omnivore
+1022,1,basil pesto,Vegan
+1024,3,fresh garlic clove,Vegan
+1026,4,wheat flour,Vegan
+1026,7,almond paste,Vegan
+1030,11,lime wedge,Vegan
+1032,0,sweetbreads,Vegan
+1032,10,arrowroot,Vegan
+1033,10,kalamata olive,Vegan
+1040,2,raw rice,Vegan
+1042,0,splenda granular,Vegan
+1043,2,chipotle peppers,Vegan
+1046,1,cherry pie filling,Vegan
+1047,1,mozzarella string cheese,Vegetarian
+1047,3,velveeta mexican cheese,Vegetarian
+1062,0,boneless beef round steak,Omnivore
+1062,5,beef bouillon granules,Omnivore
+1067,0,sharp american cheese,Vegetarian
+1068,3,dried red pepper flakes,Vegan
+1068,12,arugula leaf,Vegan
+1069,0,masa harina flour,Vegan
+1069,5,beef roast,Omnivore
+1071,0,habanero peppers,Vegan
+1071,4,beef,Omnivore
+1075,4,minced beef,Omnivore
+1075,14,tomatoes with juice,Vegan
+1076,8,unsulphured molasses,Vegan
+1077,2,russet baking potatoes,Vegan
+1078,7,soya sauce,Vegan
+1078,11,scotch bonnet pepper,Vegan
+1080,3,vanilla flavoring,Vegan
+1082,0,strong white flour,Vegan
+1085,2,marinated artichokes,Vegan
+1086,7,queso fresco,Vegan
+1088,0,napa cabbage,Vegan
+1088,8,wonton wrappers,Vegan
+1090,0,self rising flour,Vegan
+1102,6,english cucumbers,Vegan
+1105,6,fresh mozzarella cheese,Vegetarian
+1105,10,chervil,Vegan
+1106,3,fennel bulbs,Vegan
+1108,4,brown mustard,Vegan
+1109,5,powdered milk,Vegetarian
+1110,7,fresh coriander leaves,Vegan
+1112,0,beef top round steak,Omnivore
+1112,6,toasted sesame seeds,Vegan
+1114,9,dried currant,Vegan
+1114,10,craisins,Vegan
+1115,4,spring onions,Vegan
+1116,0,portabella mushrooms,Vegan
+1116,3,nonfat beef broth,Omnivore
+1119,0,dried great northern beans,Vegan
+1119,1,serrano chili peppers,Vegan
+1120,0,tofu,Vegan
+1121,0,boneless pork shoulder,Omnivore
+1121,10,fresh thyme sprigs,Vegan
+1129,0,pickled ginger,Vegan
+1129,6,fresh ahi tuna,Vegan
+1131,0,lamb breast,Omnivore
+1131,1,stewing lamb,Omnivore
+1131,6,turnip,Vegan
+1133,2,puff pastry sheet,Vegan
+1138,4,cauliflower floret,Vegan
+1138,5,green peas,Vegan
+1144,4,yellow mustard seeds,Vegan
+1147,0,boneless pork chop,Omnivore
+1149,6,fresh carrot,Vegan
+1149,9,fresh scallops,Vegan
+1150,0,dried pinto beans,Vegan
+1152,0,lean beef chuck,Omnivore
+1152,1,beef suet,Omnivore
+1153,5,mild chili powder,Vegan
+1153,8,baby potatoes,Vegan
+1154,5,green mangoes,Vegan
+1154,9,rice paper sheets,Vegan
+1164,0,fresh shrimp,Vegan
+1164,1,frozen shrimp,Vegan
+1164,6,court bouillon,Vegan
+1164,14,mace,Vegan
+1168,0,beef flank steak,Omnivore
+1174,7,canned milk,Vegetarian
+1174,10,macaroni noodles,Vegan
+1174,11,mixed cheese,Vegetarian
+1176,1,imitation bacon bits,Omnivore
+1176,2,dried celery flakes,Vegan
+1177,10,canned unsweetened coconut milk,Vegetarian
+1177,17,corn syrup,Vegan
+1178,4,bow tie pasta,Vegan
+1178,5,croutons,Vegan
+1180,0,acorn squash,Vegan
+1192,5,baby arugula,Vegan
+1192,6,frisee,Vegan
+1193,2,cubanelle pepper,Vegan
+1193,13,corn tortilla,Vegan
+1194,8,tasso,Vegan
+1196,1,flax seed,Vegan
+1196,7,apple butter,Vegetarian
+1198,4,savory,Vegan
+1201,5,bicarbonate of soda,Vegan
+1202,3,quinoa,Vegan
+1207,0,lamb shoulder,Omnivore
+1214,0,roast beef,Omnivore
+1219,1,fresh lemon rind,Vegan
+1219,14,red chili peppers,Vegan
+1219,18,yellow sweet pepper,Vegan
+1220,3,skinless chicken,Omnivore
+1220,6,andouille sausage,Omnivore
+1221,7,bittersweet chocolate chips,Vegan
+1224,4,cracked pepper,Vegan
+1224,5,serrano ham,Omnivore
+1226,5,english mustard,Vegan
+1227,0,sourdough english muffins,Vegan
+1227,7,sharp white cheddar cheese,Vegetarian
+1235,2,frozen raspberries,Vegan
+1238,6,watercress leaf,Vegan
+1240,0,fresh pineapple,Vegan
+1242,2,instant coffee powder,Vegan
+1242,3,custard,Vegan
+1243,3,orange bell peppers,Vegan
+1248,2,converted rice,Vegan
+1249,4,fresh yeast cake,Vegan
+1252,6,dried mint,Vegan
+1252,8,ham bone,Omnivore
+1254,5,southeast asian fish sauce,Omnivore
+1256,7,rich chicken broth,Omnivore
+1257,1,fresh rhubarb,Vegan
+1257,2,frozen rhubarb,Vegan
+1258,0,raw potatoes,Vegan
+1262,3,miniature phyllo cups,Vegan
+1263,5,edamame,Vegan
+1263,6,silken tofu,Vegan
+1265,0,bulk sausage,Omnivore
+1265,13,masa corn flour,Vegan
+1273,0,instant mashed potatoes,Vegan
+1273,14,pickle,Vegan
+1274,0,apricots,Vegan
+1277,2,blackstrap molasses,Vegan
+1278,3,red chili powder,Vegan
+1278,6,garam masala powder,Vegan
+1285,0,spanish rice mix,Vegan
+1292,1,chambord raspberry liquor,Vegan
+1295,0,self raising flour,Vegan
+1297,0,spinach souffle,Vegan
+1300,5,radish,Vegan
+1300,9,white wine worcestershire sauce,Vegan
+1301,10,dried mustard,Vegan
+1303,1,wine,Vegan
+1304,4,walnut pieces,Vegan
+1305,2,minced garlic clove,Vegan
+1309,10,adobo seasoning,Vegan
+1316,5,cheese whiz,Vegetarian
+1320,0,parmigiano,Vegan
+1320,4,fresh coarse ground black pepper,Vegan
+1324,6,golden delicious apples,Vegan
+1329,4,trassi oedang,Vegan
+1329,5,white cabbage,Vegan
+1329,9,ketjap manis,Vegan
+1332,7,crawfish meat,Omnivore
+1334,0,fresh zucchini,Vegan
+1335,1,lamb fillets,Omnivore
+1335,2,cardamom pods,Vegan
+1335,3,mild curry paste,Vegan
+1339,5,whole chickens,Omnivore
+1339,8,chicken bouillon cube,Omnivore
+1343,10,lager beer,Vegan
+1348,1,watercress,Vegan
+1349,1,soft brown sugar,Vegan
+1349,3,dried yeast,Vegan
+1351,3,gala apples,Vegan
+1351,4,fresh blackberries,Vegan
+1351,5,frozen blackberrie,Vegan
+1354,3,parsley sprigs,Vegan
+1355,6,flax seeds,Vegan
+1359,0,dried mexican oregano,Vegan
+1359,16,romaine lettuce hearts,Vegan
+1363,2,fontina,Vegan
+1364,8,frozen green beans,Vegan
+1366,2,plum tomato,Vegan
+1367,2,creme de cassis,Vegan
+1372,4,masala,Vegan
+1376,0,beef steaks,Omnivore
+1377,7,boneless salmon fillets,Omnivore
+1378,0,cherry vodka,Vegan
+1380,2,aioli,Vegan
+1382,9,instant coffee granules,Vegan
+1386,1,grapefruits,Vegan
+1388,5,sweet hungarian paprika,Vegan
+1388,7,smoked salmon,Omnivore
+1389,5,curry paste,Vegan
+1389,15,baby bok choy,Vegan
+1391,1,tart green apples,Vegan
+1395,0,green seedless grape,Vegan
+1396,12,shell macaroni,Vegan
+1398,6,fresh parmesan cheese,Vegetarian
+1406,0,trout fillets,Vegan
+1407,3,durian,Vegan
+1409,0,burgundy wine,Vegan
+1409,7,beef sirloin,Omnivore
+1411,1,italian sweet sausage,Omnivore
+1411,6,diced tomatoes with basil oregano and garlic,Vegan
+1413,1,thai red curry paste,Vegan
+1416,2,clear honey,Vegetarian
+1416,8,christophene,Vegan
+1421,4,red sweet bell pepper,Vegan
+1421,8,pesto sauce mix,Vegan
+1425,1,whole coriander seeds,Vegan
+1425,4,black salt,Vegan
+1427,0,cinnamon graham cracker crumbs,Vegan
+1428,2,roasted unsalted peanuts,Vegan
+1430,0,bay scallop,Vegan
+1430,4,small mushroom,Vegan
+1431,0,black coffee,Vegan
+1433,6,raw peanuts,Vegan
+1439,5,broccoli coleslaw mix,Vegan
+1447,2,wasabi,Vegan
+1448,2,okra,Vegan
+1448,18,creole mustard,Vegan
+1448,20,kitchen bouquet,Vegan
+1459,0,fat free vanilla ice cream,Vegetarian
+1461,6,real vanilla extract,Vegan
+1461,9,bittersweet chocolate piece,Vegan
+1462,0,boneless beef roast,Omnivore
+1463,13,stewing beef,Omnivore
+1465,9,roasted sesame seeds,Vegan
+1470,5,berries,Vegan
+1472,2,lime twists,Vegan
+1475,1,black tea,Vegan
+1475,2,tea,Vegan
+1485,0,venison steak,Vegan
+1493,0,instant pudding mix,Vegetarian
+1495,2,hash browns,Vegan
+1499,3,fresh bean sprout,Vegan
+1500,1,vegan margarine,Vegan
+1502,2,raw sugar,Vegan
+1507,1,vital wheat gluten,Vegan
+1510,9,passion fruit,Vegan
+1511,2,shoulder lamb chops,Omnivore
+1511,10,prune,Vegan
+1512,0,chunky salsa,Vegan
+1516,6,cooked white rice,Vegan
+1519,4,minced clams,Vegan
+1521,7,kirby cucumbers,Vegan
+1526,2,irish cream,Vegetarian
+1527,3,mild cheddar cheese,Vegetarian
+1527,8,green tomato,Vegan
+1527,12,mustard powder,Vegan
+1531,1,english muffins,Vegan
+1536,0,potato bread stuffing mix,Vegan
+1538,5,bacon grease,Omnivore
+1541,5,turkey kielbasa,Omnivore
+1542,3,bisquick baking mix,Vegan
+1545,0,chunk light tuna,Vegan
+1547,4,lentils,Vegan
+1547,6,english cucumber,Vegan
+1548,0,spiral shaped pasta,Vegan
+1553,4,chicken bouillon powder,Omnivore
+1557,3,champagne vinegar,Vegan
+1559,5,bulb of garlic,Vegan
+1559,8,ground oregano,Vegan
+1563,1,tap water,Vegan
+1564,0,mushroom cap,Vegan
+1566,9,red delicious apple,Vegan
+1579,6,tuna steaks,Vegan
+1580,10,golden raisins,Vegan
+1582,2,white zinfandel wine,Vegan
+1585,1,dark corn syrup,Vegan
+1586,1,whole mushrooms,Vegan
+1587,2,crisco shortening,Vegan
+1597,5,chile,Vegan
+1604,7,frozen puff pastry,Vegan
+1605,0,capers packed in salt,Vegan
+1611,0,strawberry ice cream,Vegetarian
+1612,0,graham cracker crust,Vegan
+1619,8,pineapple rings,Vegan
+1620,12,ground fenugreek,Vegan
+1620,13,egg tomatoes,Vegetarian
+1623,4,pimento pepper,Vegan
+1632,0,green curry paste,Vegan
+1642,1,broccoli slaw mix,Vegan
+1643,0,semolina flour,Vegan
+1644,0,chicken stove top stuffing mix,Omnivore
+1644,4,mild sausage,Omnivore
+1647,6,fresh bean sprouts,Vegan
+1647,7,lime slice,Vegan
+1653,2,grapes,Vegan
+1659,3,hickory smoke salt,Vegan
+1666,1,hamburger meat,Omnivore
+1669,4,worcestershire sauce for chicken,Omnivore
+1675,0,cod fish fillet,Omnivore
+1680,2,graham cracker pie crusts,Vegan
+1680,3,cool whip free,Vegetarian
+1682,12,fresh basil leaves,Vegan
+1687,3,liquid honey,Vegetarian
+1688,1,fresh pineapple chunk,Vegan
+1689,0,sweetened coconut,Vegan
+1690,13,cardamom pod,Vegan
+1695,3,chocolate pudding,Vegetarian
+1695,5,kahlua,Vegan
+1697,3,anchovy paste,Vegan
+1707,0,blue curacao,Vegan
+1707,1,white rum,Vegan
+1708,10,chipotle chile in adobo,Vegan
+1712,4,mint sprigs,Vegan
+1713,5,fleur de sel,Vegan
+1716,0,fat free cream cheese,Vegetarian
+1716,3,lowfat mozzarella cheese,Vegetarian
+1718,2,soft tofu,Vegan
+1720,9,green capsicum,Vegan
+1721,7,light coconut milk,Vegetarian
+1721,8,red curry paste,Vegan
+1721,10,yellow tomatoes,Vegan
+1730,8,dried white bean,Vegan
+1730,10,dried kidney beans,Vegan
+1734,1,carrot juice,Vegan
+1736,0,tiger shrimp,Vegan
+1737,0,grape leaves,Vegan
+1738,5,snow pea pods,Vegan
+1746,0,frozen broccoli,Vegan
+1748,0,chocolate instant pudding,Vegetarian
+1750,4,cooking wine,Vegan
+1752,7,chicken meat,Omnivore
+1753,8,light ricotta cheese,Vegetarian
+1754,3,kaffir lime leaves,Vegan
+1757,5,canned pears,Vegan
+1762,1,alfredo sauce,Vegan
+1764,9,rosemary sprigs,Vegan
+1768,0,rose water,Vegan
+1769,4,shell pasta,Vegan
+1777,1,ground chicken,Omnivore
+1778,5,ripe olives,Vegan
+1780,5,crushed tomatoes in puree,Vegan
+1781,10,spicy brown mustard,Vegan
+1786,4,chicken tenderloins,Omnivore
+1788,2,cod fish fillets,Omnivore
+1791,4,pineapple slices,Vegan
+1792,3,kala jeera,Vegan
+1792,9,powdered ginger,Vegan
+1792,10,powdered clove,Vegan
+1793,0,red grapefruits,Vegan
+1793,8,vanilla yogurt,Vegetarian
+1798,2,hearts of palm,Vegan
+1800,0,nonfat yogurt,Vegetarian
+1801,2,fettuccine pasta,Vegan
+1812,6,lobsters,Vegan
+1813,7,dried ground cayenne,Vegan
+1818,1,nutritional yeast,Vegan
+1822,0,beets,Vegan
+1824,2,unsweetened dried shredded coconut,Vegan
+1824,9,cream of coconut,Vegetarian
+1825,0,lite olive oil,Vegan
+1825,5,whole coriander seed,Vegan
+1829,7,boston lettuce,Vegan
+1837,0,pinto beans,Vegan
+1843,1,hot spiced cider mix,Vegan
+1847,1,havarti cheese,Vegetarian
+1849,11,salted cashews,Vegan
+1850,7,dill sprigs,Vegan
+1853,7,peach brandy,Vegan
+1854,2,marshmallows,Vegan
+1857,0,whole wheat tortilla,Vegan
+1858,9,hot chili beans,Vegan
+1867,4,bottled garlic,Vegan
+1870,2,parsnip,Vegan
+1873,1,chicken curry powder,Omnivore
+1874,5,corn tortilla chips,Vegan
+1875,0,smoked cheddar cheese,Vegetarian
+1894,5,brown mustard seeds,Vegan
+1894,18,stuffed green olive,Vegan
+1896,3,sweet small pickles,Vegan
+1902,3,strawberry cream cheese,Vegetarian
+1907,4,seville oranges,Vegan
+1908,4,green chili pepper,Vegan
+1913,9,corn kernels,Vegan
+1914,3,russet potato,Vegan
+1915,5,nonfat cheddar cheese,Vegetarian
+1918,1,white whole wheat flour,Vegan
+1918,8,olive oil flavored cooking spray,Vegan
+1919,2,red maraschino cherries,Vegan
+1919,3,green maraschino cherries,Vegan
+1921,3,japanese eggplant,Vegan
+1922,3,green chili peppers,Vegan
+1923,1,streaky bacon,Omnivore
+1933,3,pistachio nuts,Vegan
+1933,8,hot paprika,Vegan
+1936,1,lamb stew meat,Omnivore
+1936,5,black cardamom pods,Vegan
+1941,4,green peppercorns,Vegan
+1943,5,canned kidney beans,Vegan
+1944,5,poblano chiles,Vegan
+1945,6,pineapple chunk,Vegan
+1951,1,ham steak,Omnivore
+1955,0,chicken thighs,Omnivore
+1956,0,velveeta shells and cheese dinner,Vegetarian
+1957,0,strawberry gelatin,Vegan
+1963,6,smoked gouda cheese,Vegetarian
+1964,1,pasta shells,Vegan
+1965,6,ginger juice,Vegan
+1968,5,tabasco jalapeno sauce,Vegan
+1969,6,crisp bacon,Omnivore
+1976,0,fresh salmon,Omnivore
+1986,3,bay scallops,Vegan
+1990,3,frozen raspberries in light syrup,Vegan
+1993,4,red chili pepper,Vegan
+1994,8,dill pickle slices,Vegan
+2000,10,blackberry,Vegan
+2001,4,jicama,Vegan
+2001,8,boston lettuce leaves,Vegan
+2007,0,pork,Omnivore
+2010,1,pineapple chunks in juice,Vegan
+2013,10,mango chutney,Vegan
+2015,0,salmon steaks,Omnivore
+2016,0,lemon yogurt,Vegetarian
+2020,2,dried tarragon leaves,Vegan
+2024,0,green cardamom pods,Vegan
+2027,5,curry,Vegan
+2029,0,green cabbage head,Vegan
+2029,1,red cabbage head,Vegan
+2030,9,whole allspice,Vegan
+2036,4,frozen hash brown potatoes,Vegan
+2040,1,bread and butter pickles,Vegetarian
+2041,0,boneless beef top sirloin steak,Omnivore
+2042,9,mashed sweet potato,Vegan
+2043,0,raw egg yolks,Vegetarian
+2046,2,ground paprika,Vegan
+2046,5,preserved lemon,Vegan
+2046,7,dried pear halves,Vegan
+2047,3,black walnut,Vegan
+2049,3,hot red pepper flakes,Vegan
+2053,3,swanson chicken broth,Omnivore
+2061,3,sweet pickle,Vegan
+2061,8,pineapple tidbits,Vegan
+2061,10,pimentos,Vegan
+2064,6,biscuit mix,Vegan
+2070,7,boneless beef cube,Omnivore
+2073,0,chicken piece,Omnivore
+2073,2,dried limes,Vegan
+2074,4,whole wheat pasta,Vegan
+2075,1,coconut butter,Vegetarian
+2079,7,fresh herb,Vegan
+2079,8,fat free mozzarella cheese,Vegetarian
+2083,0,squash,Vegan
+2083,2,asafoetida powder,Vegan
+2087,9,harissa,Vegan
+2088,2,diced green chilis,Vegan
+2094,7,fresh green chile,Vegan
+2094,12,curry leaves,Vegan
+2095,0,cream cheese spread,Vegetarian
+2106,0,black rice,Vegan
+2115,0,vital wheat gluten flour,Vegan
+2117,4,spearmint,Vegan
+2118,0,crawfish tail,Vegan
+2121,0,whole nutmeg,Vegan
+2121,7,galangal,Vegan
+2121,8,boneless beef chuck,Omnivore
+2121,9,bottom round steaks,Vegan
+2126,6,lemon juice concentrate,Vegan
+2130,0,ham hock,Omnivore
+2131,4,mexican chili powder,Vegan
+2133,8,dry oregano,Vegan
+2136,12,red onion rings,Vegan
+2138,2,grapefruit juice,Vegan
+2151,1,mirin,Vegan
+2151,5,wasabi paste,Vegan
+2152,5,vegetable bouillon cube,Vegan
+2160,1,beef bones with marrow,Omnivore
+2160,3,dried mushroom,Vegan
+2166,0,fresh kale,Vegan
+2168,0,non fat small curd cottage cheese,Vegetarian
+2179,3,frozen carrots,Vegan
+2182,0,great northern bean,Vegan
+2183,0,frozen limeade concentrate,Vegan
+2186,1,short rib of beef,Omnivore
+2186,6,sweet italian sausage link,Omnivore
+2186,7,hot italian sausage link,Omnivore
+2189,2,soda water,Vegan
+2195,3,other dry white wine,Vegan
+2196,0,dried mushrooms,Vegan
+2202,3,lite evaporated milk,Vegetarian
+2208,0,split yellow lentils,Vegan
+2210,6,fresh ground white pepper,Vegan
+2219,0,amaranth flour,Vegan
+2231,0,carob powder,Vegan
+2238,4,lamb racks,Omnivore
+2238,7,lemon wedge,Vegan
+2238,8,parsley sprig,Vegan
+2239,0,fresh large mushroom,Vegan
+2276,3,lettuce leaf,Vegan
+2278,7,green chili salsa,Vegan
+2281,4,mascarpone,Vegan
+2287,0,canned tomato sauce,Vegan
+2287,4,canned black beans,Vegan
+2304,11,light margarine,Vegan
+2313,0,red currant jelly,Vegan
+2321,0,lamb leg steaks,Omnivore
+2321,2,fresh rosemary leaf,Vegan
+2326,0,chicken breast halve,Omnivore
+2330,1,jumbo shrimp,Vegan
+2336,0,vegetable margarine,Vegan
+2336,3,porridge oats,Vegan
+2340,1,unsalted margarine,Vegan
+2346,0,red zinfandel wine,Vegan
+2350,0,roasting chicken,Omnivore
+2350,9,mesquite liquid smoke,Vegan
+2352,3,dried lavender blossoms,Vegan
+2352,4,nectarines,Vegan
+2356,3,canned whole kernel corn,Vegan
+2357,5,banana pepper,Vegan
+2357,7,dried tomatoe,Vegan
+2360,9,chopped pimiento,Vegan
+2369,3,red bliss potatoes,Vegan
+2374,1,roasted garlic,Vegan
+2382,0,red beets,Vegan
+2382,5,caraway seeds,Vegan
+2383,0,gooseberries,Vegan
+2383,6,minute tapioca,Vegan
+2387,2,pickle juice,Vegan
+2397,13,fresh sage leaf,Vegan
+2398,11,vanilla beans,Vegan
+2403,5,uncle bens wild rice,Vegan
+2405,0,prepared mayonnaise,Vegetarian
+2405,4,rock salt,Vegan
+2408,0,cooked basmati rice,Vegan
+2409,0,solid pack pumpkin,Vegan
+2431,9,fresh dill sprig,Vegan
+2452,1,light rum,Vegan
+2453,3,polish sausage,Omnivore
+2457,5,purple cabbage,Vegan
+2459,2,frozen green pea,Vegan
+2460,4,nestle sweetened condensed milk,Vegetarian
+2460,5,carnation evaporated milk,Vegetarian
+2466,3,mixed berries,Vegan
+2472,4,fresh nutmeg,Vegan
+2475,0,baby clams,Vegan
+2475,1,salt pork,Omnivore
+2477,8,fresh mango,Vegan
+2481,2,ganache,Vegan
+2482,5,colby,Vegan
+2489,3,firm butter,Vegetarian
+2493,0,top round beef,Omnivore
+2493,7,sriracha sauce,Vegan
+2494,7,dark raisin,Vegan
+2504,2,dry pasta,Vegan
+2512,1,dark muscovado sugar,Vegan
+2516,10,yellow pear tomatoes,Vegan
+2524,9,whole buttermilk,Vegan
+2524,10,banana cream instant pudding,Vegetarian
+2525,0,flounder fillets,Vegan
+2528,5,muskmelon,Vegan
+2528,6,star fruit,Vegan
+2528,17,chat masala,Vegan
+2530,3,white potato,Vegan
+2537,2,pumpkin pie filling,Vegan
+2538,6,tofu mayonnaise,Vegetarian
+2540,4,tomatoes with garlic,Vegan
+2540,5,hot chili peppers,Vegan
+2542,0,lowfat silken tofu,Vegan
+2551,0,ponzu sauce,Vegan
+2554,0,frozen unsweetened raspberries,Vegan
+2557,0,masterpiece original barbecue sauce,Vegan
+2559,3,swordfish steak,Vegan
+2561,0,prepared stuffing,Vegan
+2563,0,white cheddar cheese,Vegetarian
+2573,10,chocolate piece,Vegan
+2575,1,skim milk powder,Vegetarian
+2577,4,distilled vinegar,Vegan
+2581,1,chunky peanut butter,Vegetarian
+2584,0,tangerine,Vegan
+2592,2,hot chili sauce,Vegan
+2594,8,rabbit,Omnivore
+2595,0,portabella mushroom caps,Vegan
+2595,2,mexican chorizo,Vegan
+2596,5,skinless salmon fillet,Omnivore
+2596,6,halibut fillets,Vegan
+2601,5,muenster cheese,Vegetarian
+2612,2,pomegranate molasses,Vegan
+2621,1,rose wine,Vegan
+2628,0,fresh tuna,Vegan
+2629,14,wild rice,Vegan
+2647,8,tomatillo salsa,Vegan
+2650,0,raspberry vodka,Vegan
+2654,5,kernel corn,Vegan
+2656,8,tamarind paste,Vegan
+2657,3,head broccoli,Vegan
+2660,2,tamarind pulp,Vegan
+2661,12,white rice,Vegan
+2662,9,basil sprigs,Vegan
+2669,2,spicy tomato sauce,Vegan
+2669,6,buffalo mozzarella,Vegan
+2677,1,pinto beans with jalapeno peppers,Vegan
+2683,2,smoked mozzarella cheese,Vegetarian
+2688,1,espresso coffee,Vegan
+2693,4,queso blanco,Vegan
+2702,2,fresh yeast,Vegan
+2709,5,liquid smoke flavoring,Vegan
+2718,3,processed cheese,Vegetarian
+2725,0,golden rum,Vegan
+2726,4,minute brown rice,Vegan
+2729,4,kaffir lime leaf,Vegan
+2731,5,red cayenne pepper,Vegan
+2732,1,dried dates,Vegan
+2734,0,spinach pasta,Vegan
+2736,5,preserved lemons,Vegan
+2737,10,english pea,Vegan
+2743,0,coriander sprig,Vegan
+2743,3,black cardamom pod,Vegan
+2743,4,green cardamoms,Vegan
+2746,5,white sauce,Vegan
+2747,1,portabella mushroom,Vegan
+2758,1,chunk pineapple,Vegan
+2760,9,racks of lamb,Omnivore
+2765,9,head romaine lettuce,Vegan
+2765,11,plum,Vegan
+2773,4,escarole,Vegan
+2779,1,sazon goya con culantro y achiote,Vegan
+2784,12,creme de cacao,Vegan
+2786,0,dried peppermint,Vegan
+2786,1,dried spearmint,Vegan
+2788,4,chinese mustard,Vegan
+2802,8,flax seed meal,Vegan
+2812,1,lemon low fat yogurt,Vegetarian
+2815,4,gelatin powder,Vegan
+2816,7,fennel,Vegan
+2822,1,mandarin orange zest,Vegan
+2827,0,ground flax seed,Vegan
+2828,4,malt vinegar,Vegan
+2829,0,chicken fillets,Omnivore
+2830,6,boiling potatoes,Vegan
+2831,0,small red potato,Vegan
+2834,7,boneless chicken,Omnivore
+2838,5,spicy mustard,Vegan
+2855,5,fenugreek seeds,Vegan
+2860,10,fresh tarragon,Vegan
+2860,14,vermouth,Vegan
+2863,0,braeburn apples,Vegan
+2864,0,canola oil cooking spray,Vegan
+2867,0,kohlrabi,Vegan
+2870,4,dragees,Vegan
+2875,15,fresh cracked pepper,Vegan
+2882,5,frozen artichoke hearts,Vegan
+2883,9,dried ancho chile,Vegan
+2885,1,haddock fillet,Vegan
+2889,11,black currant jelly,Vegan
+2890,0,canned salmon,Omnivore
+2899,0,extra finely granulated sugar,Vegan
+2904,8,sour cherries,Vegan
+2908,0,fresh pork loin roast,Omnivore
+2908,5,dried thyme leaves,Vegan
+2911,7,mild green chili,Vegan
+2912,9,garlic oil,Vegan
+2914,0,savoy cabbage,Vegan
+2919,0,chicken livers,Omnivore
+2923,3,fresh savory,Vegan
+2923,7,lemon slices,Vegan
+2924,2,huckleberries,Vegan
+2926,5,orange bell pepper,Vegan
+2935,0,apricot,Vegan
+2938,4,chinese five spice powder,Vegan
+2945,8,chocolate curls,Vegan
+2948,5,passion fruit pulp,Vegan
+2948,12,brazil nut,Vegan
+2949,13,fresh cilantro stems,Vegan
+2971,0,boneless pork ribs,Omnivore
+2974,0,scalloped potatoes mix,Vegan
+2976,0,dried brown lentils,Vegan
+2976,13,tamari soy sauce,Vegan
+2978,1,black beans,Vegan
+2981,3,hazelnut extract,Vegan
+3002,2,vegan gelatin,Vegan
+3003,0,cellophane noodles,Vegan
+3012,3,nutritional yeast flakes,Vegan
+3016,6,sweet potato puree,Vegan
+3017,6,caper juice,Vegan
+3022,5,deli roast beef,Omnivore
+3023,3,tapioca starch,Vegan
+3038,0,rack of lamb,Omnivore
+3038,1,ras el hanout spice mix,Vegan
+3038,7,israeli couscous,Vegan
+3038,11,pomegranate seeds,Vegan
+3045,0,ham hocks,Omnivore
+3056,0,alphabet pasta,Vegan
+3057,2,chicken cutlets,Omnivore
+3057,7,saffron strands,Vegan
+3065,8,parboiled rice,Vegan
+3066,2,large marshmallows,Vegan
+3067,3,cake yeast,Vegan
+3072,2,smoked ham hock,Omnivore
+3072,3,bouquet garni,Vegan
+3072,4,bouquet garni,Vegan
+3084,6,unsweetened coconut,Vegan
+3084,7,melon balls,Vegan
+3087,1,red snapper,Vegan
+3088,0,homogenized milk,Vegetarian
+3090,9,lemon wedges,Vegan
+3091,2,smoked ham,Omnivore
+3110,2,fresh pumpkin puree,Vegan
+3111,3,frozen creamed spinach,Vegan
+3112,3,celery heart,Vegan
+3113,1,masa harina,Vegan
+3113,4,frozen whole kernel corn,Vegan
+3125,0,boneless pork loin steaks,Omnivore
+3128,1,french baguettes,Vegan
+3133,1,pepperidge farm stuffing,Vegan
+3135,1,tea bag,Vegan
+3136,1,baileys irish cream,Vegetarian
+3139,2,sole fillets,Vegan
+3144,3,english mustard powder,Vegan
+3154,6,bean threads,Vegan
+3155,3,smoked kielbasa,Vegan
+3167,1,ancho chilies,Vegan
+3173,0,phyllo pastry sheet,Vegan
+3175,5,cooking sherry,Vegan
+3180,8,dried coriander,Vegan
+3184,12,oregano sprig,Vegan
+3185,0,andouille sausages,Vegan
+3199,2,whole cumin seeds,Vegan
+3199,10,mexican oregano,Vegan
+3205,5,salt water,Vegan
+3206,1,solid shortening,Vegan
+3209,2,clementines,Vegan
+3209,3,mandarin orange,Vegan
+3218,5,golden delicious apple,Vegan
+3240,1,ginger marmalade,Vegan
+3266,0,chicken parts,Omnivore
+3267,6,vegan sour cream,Vegetarian
+3298,2,frozen broccoli cuts,Vegan
+3299,5,fresh sage leaves,Vegan
+3299,8,ducklings,Vegan
+3307,0,pink grapefruit juice,Vegan
+3308,0,lemon pudding mix,Vegetarian
+3308,4,bacardi light rum,Vegan
+3308,6,graham cracker crumb crust,Vegan
+3312,1,bulgar wheat,Vegan
+3315,4,smoked link sausage,Omnivore
+3321,2,mozzarella cheddar blend cheese,Vegetarian
+3325,2,rice pilaf mix,Vegan
+3325,5,herb seasoned stuffing mix,Vegan
+3343,0,tamarillos,Vegan
+3343,1,ginger wine,Vegan
+3359,0,black sesame seeds,Vegan
+3359,2,sweetened lime juice,Vegan
+3362,1,yellow miso,Vegan
+3362,5,japanese eggplants,Vegan
+3364,3,chunky applesauce,Vegan
+3366,6,matzo meal,Vegan
+3366,8,instant beef bouillon,Omnivore
+3380,1,lamb blade chops,Omnivore
+3380,9,lamb stock,Omnivore
+3388,7,spinach fettuccine,Vegan
+3398,0,chicken portions,Omnivore
+3400,7,poblano chile,Vegan
+3402,0,pomegranates,Vegan
+3404,1,london broil beef,Omnivore
+3410,5,ground mixed spice,Vegan
+3415,0,pot barley,Vegan
+3417,6,white chocolate baking square,Vegan
+3418,5,sweet sherry,Vegan
+3423,9,dried fenugreek leaves,Vegan
+3424,1,semisweet vegan chocolate chips,Vegan
+3426,9,green onion tops,Vegan
+3428,2,rump steak,Vegan
+3428,3,bottom round beef roast,Omnivore
+3431,1,regular margarine,Vegan
+3433,4,mahi mahi fillets,Vegan
+3438,0,frozen sweetened raspberries,Vegan
+3438,11,fresh red raspberries,Vegan
+3445,7,tamarind juice,Vegan
+3456,0,distilled water,Vegan
+3460,0,courgettes,Vegan
+3463,0,firm ripe tomatoes,Vegan
+3464,5,white hominy,Vegan
+3472,6,mild paprika,Vegan
+3472,7,canned tuna,Vegan
+3473,6,pudding,Vegetarian
+3475,0,split red lentils,Vegan
+3475,4,vegetable bouillon cubes,Vegan
+3484,7,cornstarch paste,Vegan
+3497,7,mahi mahi,Vegan
+3498,8,chili peppers,Vegan
+3504,0,coffee ice cream,Vegetarian
+3507,5,dried lentils,Vegan
+3507,8,broccoli rabe,Vegan
+3510,0,sirloin beef,Omnivore
+3528,1,white creme de menthe,Vegan
+3532,2,avocado dip,Vegan
+3534,2,jelly beans,Vegan
+3539,9,file powder,Vegan
+3543,5,kasseri cheese,Vegetarian
+3546,0,ground sausage,Omnivore
+3549,3,figs,Vegan
+3550,4,ground sumac,Vegan
+3556,1,coffee beans,Vegan
+3563,0,whiting fish fillets,Omnivore
+3564,0,roasted cashews,Vegan
+3579,4,white corn tortillas,Vegan
+3581,5,mexican tomatoes,Vegan
+3588,4,instant chicken bouillon,Omnivore
+3593,0,frozen southern style hash brown potatoes,Vegan
+3606,10,plum jelly,Vegan
+3606,11,currant jelly,Vegan
+3610,2,deli ham,Omnivore
+3613,3,frozen cherries,Vegan
+3628,10,red grapefruit,Vegan
+3642,0,instant vanilla flavor pudding and pie filling,Vegetarian
+3653,2,nacho cheese flavored tortilla chips,Vegetarian
+3654,3,honeydews,Vegan
+3660,3,ham steaks,Omnivore
+3668,5,bouillon cube,Vegan
+3673,7,chicken legs,Omnivore
+3679,2,marshmallow miniatures,Vegetarian
+3692,1,yellow potatoes,Vegan
+3694,3,passion fruit juice,Vegan
+3694,4,passion fruit puree,Vegan
+3698,1,fingerling potatoes,Vegan
+3744,1,cabbage coleslaw blend,Vegan
+3767,0,wonton skins,Vegan
+3775,1,diet ginger ale,Vegan
+3777,1,radicchio,Vegan
+3778,5,onion white,Vegan
+3794,4,dry dill weed,Vegan
+3794,10,lean ground lamb,Omnivore
+3798,4,beef bouillon powder,Omnivore
+3809,1,dry white vermouth,Vegan
+3811,0,raspberry puree,Vegan
+3811,2,white cranberry juice,Vegan
+3818,0,duck,Omnivore
+3818,9,green lentils,Vegan
+3819,0,white chocolate baking bar,Vegan
+3825,0,canned sliced potatoes,Vegan
+3825,2,mild salsa,Vegan
+3839,3,fuji apples,Vegan
+3841,4,vanilla flavor instant pudding and pie filling mix,Vegetarian
+3847,7,aleppo pepper,Vegan
+3868,8,marzipan,Vegan
+3868,9,royal icing,Vegan
+3870,5,asadero cheese,Vegetarian
+3871,3,plum brandy,Vegan
+3873,4,white bread flour,Vegan
+3875,2,instant coffee crystals,Vegan
+3877,0,navel oranges,Vegan
+3877,2,white grapefruit,Vegan
+3889,6,dried butter beans,Vegetarian
+3897,1,instant lemon pudding,Vegetarian
+3906,7,contadina tomato sauce,Vegan
+3912,1,teriyaki glaze sauce,Vegan
+3916,3,lowfat parmesan cheese,Vegetarian
+3924,0,swordfish fillets,Vegan
+3929,2,brown sugar twin,Vegan
+3934,5,cheese spread,Vegetarian
+3943,3,unsweetened pineapple,Vegan
+3944,1,tonic water,Vegan
+3952,1,kidney bean,Vegan
+3953,6,seedless raisin,Vegan
+3954,0,whole black peppercorn,Vegan
+3954,5,mortadella,Vegan
+3971,1,jumbo eggs,Vegetarian
+3971,2,lobster meat,Omnivore
+3979,5,other sweet onion,Vegan
+3979,10,baby lima beans,Vegan
+3988,0,cassava,Vegan
+3989,6,red caviar,Vegan
+3989,7,black caviar,Vegan
+3991,5,tuna salad,Vegan
+3998,2,fresh carrots,Vegan
+3998,9,canned chicken broth,Omnivore
+4001,6,real vanilla,Vegan
+4010,0,nopales,Vegan
+4021,5,bouillon,Vegan
+4023,6,pomegranate,Vegan
+4029,0,sticky rice,Vegan
+4029,4,sweet mangoes,Vegan
+4033,3,habanero sauce,Vegan
+4041,3,dried rosemary leaves,Vegan
+4049,13,arugula leaves,Vegan
+4059,1,unsweetened apple cider,Vegan
+4061,5,stuffed green olives,Vegan
+4063,3,fresh brussels sprouts,Vegan
+4067,1,leg of lamb,Omnivore
+4068,4,dried ancho chiles,Vegan
+4068,7,sweet white onion,Vegan
+4069,10,fruit chutney,Vegan
+4072,0,herring fillets,Vegan
+4074,3,diced tomatoes with green chilies,Vegan
+4075,1,sausage meat,Omnivore
+4076,5,unbleached white flour,Vegan
+4082,2,frozen lima beans,Vegan
+4085,1,mineral water,Vegan
+4094,9,light cheddar cheese,Vegetarian
+4101,2,chicken flavor instant bouillon,Omnivore
+4114,3,unsifted flour,Vegan
+4118,3,seedless watermelon,Vegan
+4126,5,mixed fresh herbs,Vegan
+4128,0,black mission fig,Vegan
+4129,12,yellow chiles,Vegan
+4132,1,broccoli stems,Vegan
+4136,8,cannonball cabbage,Vegan
+4137,4,alfalfa sprout,Vegan
+4138,6,sweet basil,Vegan
+4138,7,instant minced garlic,Vegan
+4145,5,amaretti cookie,Vegan
+4149,5,dry marsala wine,Vegan
+4150,1,coconut milk powder,Vegetarian
+4150,9,panang curry paste,Vegan
+4158,6,lean hamburger,Vegan
+4165,8,ham slices,Omnivore
+4169,3,fresh lime leaves,Vegan
+4180,0,dried tart cherry,Vegan
+4180,3,romaine lettuce leaf,Vegan
+4182,0,lamb shanks,Omnivore
+4184,0,cabbage and carrot coleslaw mix,Vegan
+4187,4,liver,Vegan
+4189,0,spanish peanuts,Vegan
+4208,12,bechamel sauce,Vegan
+4221,0,seasoned flour,Vegan
+4222,1,creamed honey,Vegetarian
+4230,0,lean lamb fillets,Omnivore
+4230,10,unsweetened plain yogurt,Vegetarian
+4231,0,pasta noodles,Vegan
+4235,5,minute white rice,Vegan
+4241,2,avocado oil,Vegan
+4241,13,broccoli stem,Vegan
+4242,0,graham cracker squares,Vegan
+4243,0,instant brown rice,Vegan
+4258,1,purple potatoes,Vegan
+4263,1,graham cracker cheesecake crust,Vegan
+4264,0,sugar snap pea,Vegan
+4265,3,fresh white mushroom,Vegan
+4271,0,ben and jerry cherry garcia ice cream,Vegetarian
+4279,2,dried red kidney beans,Vegan
+4281,3,light muscovado sugar,Vegan
+4287,4,eye of round roast,Vegan
+4293,1,plum sauce,Vegan
+4316,14,low fat mozzarella,Vegan
+4317,0,celery root,Vegan
+4321,3,palm sugar,Vegan
+4334,2,alfalfa sprouts,Vegan
+4335,0,small shrimp,Vegan
+4335,11,frozen coconut milk,Vegetarian
+4342,3,homemade chicken broth,Omnivore
+4351,0,tart cherries,Vegan
+4370,4,candied lemon peel,Vegan
+4370,6,seedless raisins,Vegan
+4370,7,citron,Vegan
+4370,8,green ginger,Vegan
+4376,1,frozen blackberries,Vegan
+4381,0,string bean,Vegan
+4383,2,purple bell pepper,Vegan
+4384,0,english muffin,Vegan
+4387,0,chunk tuna,Vegan
+4388,5,baking chocolate,Vegan
+4391,5,sage leaf,Vegan
+4396,5,instant milk,Vegetarian
+4409,3,instant espresso,Vegan
+4411,1,fava beans,Vegan
+4412,5,manila clams,Vegan
+4418,3,manchego cheese,Vegetarian
+4423,9,fresh coconut,Vegan
+4426,2,dry cider,Vegan
+4439,3,cashew pieces,Vegan
+4448,0,smoked ham hocks,Omnivore
+4467,0,boneless beef sirloin,Omnivore
+4490,0,green plantains,Vegan
+4491,11,firm banana,Vegan
+4493,7,turkey meat,Omnivore
+4508,0,manioc starch,Vegan
+4510,1,fresh pears,Vegan
+4524,0,hash brown potatoes,Vegan
+4536,1,dry active yeast,Vegan
+4541,1,whole mushroom,Vegan
+4543,2,realemon juice,Vegan
+4553,0,amaretto di saronno liqueur,Vegan
+4555,1,vegetable marrow,Vegan
+4576,0,beef schnitzel,Omnivore
+4577,4,baking apples,Vegan
+4581,17,half and half milk,Vegetarian
+4594,4,skinless chicken breast half,Omnivore
+4600,0,garlic head,Vegan
+4609,3,urad dal,Vegan
+4609,6,hing,Vegan
+4611,6,cheese slice,Vegetarian
+4613,0,bartlett pears,Vegan
+4614,4,baked corn tortilla chips,Vegan
+4615,0,fresh udon noodles,Vegan
+4615,5,white miso,Vegan
+4627,13,watercress leaves,Vegan
+4632,0,vegan chicken,Omnivore
+4632,2,fresh portabella mushrooms,Vegan
+4632,4,vegan cream cheese,Vegetarian
+4643,10,littleneck clams,Vegan
+4643,11,clam,Vegan
+4668,8,colby cheese,Vegetarian
+4671,0,absolut vodka,Vegan
+4671,1,black currants,Vegan
+4679,5,boneless beef chuck roast,Omnivore
+4681,2,sour dill pickles,Vegan
+4681,3,fresh peas,Vegan
+4681,14,boston lettuce leaf,Vegan
+4682,3,spanish olives with pimento,Vegan
+4693,8,white corn kernels,Vegan
+4694,0,stewing chicken,Omnivore
+4694,2,chicken gizzard,Omnivore
+4694,11,chard leaves,Vegan
+4713,18,seitan,Vegan
+4716,1,cheesecake flavor instant pudding and pie filling mix,Vegetarian
+4720,10,sorghum flour,Vegan
+4723,1,maraschino cherry juice,Vegan
+4730,8,white raisins,Vegan
+4752,2,cooked converted rice,Vegan
+4754,0,lettuce greens,Vegan
+4764,1,red sweet peppers,Vegan
+4772,3,mandarin oranges in light syrup,Vegan
+4783,3,ground walnuts,Vegan
+4787,3,curacao,Vegan
+4795,0,sea bass fillets,Vegan
+4797,3,purple onions,Vegan
+4801,1,smoked back bacon,Omnivore
+4807,0,whole milk ricotta cheese,Vegetarian
+4815,5,cooked lamb,Omnivore
+4830,7,french mustard,Vegan
+4840,5,green grapes,Vegan
+4842,9,gouda cheese,Vegetarian
+4861,8,haddock fillets,Vegan
+4868,3,chicken necks,Omnivore
+4868,4,chicken back,Omnivore
+4871,7,mango pulp,Vegan
+4880,2,canned corn niblets,Vegan
+4882,2,madras curry powder,Vegan
+4893,7,white shoepeg corn,Vegan
+4902,7,pie apple,Vegan
+4907,4,sage leaves,Vegan
+4915,1,red grapes,Vegan
+4925,5,risotto rice,Vegan
+4934,1,mint chocolate chip ice cream,Vegetarian
+4939,7,jeera powder,Vegan
+4940,16,unsalted sunflower seeds,Vegan
+4945,6,basil sprig,Vegan
+4948,0,light coconut cream,Vegetarian
+4952,3,canned vegetable broth,Vegan
+4954,13,fresh chervil,Vegan
+4955,8,kumquats,Vegan
+4955,9,kumquat,Vegan
+4960,0,orange gelatin,Vegan
+4964,5,fresh rosemary leaves,Vegan
+4972,1,round onion,Vegan
+4972,4,fresh lotus root,Vegan
+4972,11,bonito flakes,Vegan
+4982,5,toasted hazelnuts,Vegan
+4984,2,major grey chutney,Vegan
+4987,4,pink grapefruit,Vegan
+4987,6,white grapefruits,Vegan
+4987,8,tangerines,Vegan
+4992,0,chicken giblets,Omnivore
+4997,10,whole pecans,Vegan
+5005,8,romaine leaves,Vegan
+5007,6,fat free egg substitute,Vegetarian
+5008,7,fresh lump crabmeat,Vegan
+5011,5,red salmon,Omnivore
+5012,0,polska kielbasa,Vegan
+5019,3,hot red chili pepper,Vegan
+5021,4,mushroom stems and pieces,Vegan
+5024,5,whole green chilies,Vegan
+5027,1,red raspberries,Vegan
+5034,6,dried lime powder,Vegan
+5047,0,cherry juice,Vegan
+5052,2,white creme de cacao,Vegan
+5055,1,kosher dill pickle,Vegan
+5055,3,grey poupon dijon mustard,Vegan
+5069,0,refined flour,Vegan
+5081,0,quail,Vegan
+5096,8,buckwheat groats,Vegan
+5098,0,unsweetened raspberry,Vegan
+5098,1,black currant liqueur,Vegan
+5101,11,green chili sauce,Vegan
+5108,10,english seedless cucumbers,Vegan
+5108,12,baby dill pickle,Vegan
+5117,1,frozen sweetened strawberries,Vegan
+5119,4,alfredo sauce mix,Vegan
+5127,3,equal sugar substitute,Vegan
+5128,4,extra strong coffee,Vegan
+5157,3,fresh chili pepper,Vegan
+5157,4,green onions with tops,Vegan
+5160,5,kikkoman soy sauce,Vegan
+5165,2,asian pears,Vegan
+5168,0,cod,Vegan
+5187,7,sweet wine,Vegan
+5206,1,pink beans,Vegan
+5206,5,baby portabella mushrooms,Vegan
+5206,11,spanish olives,Vegan
+5206,20,pignolis,Vegan
+5217,0,sweet white onions,Vegan
+5221,1,new england clam chowder,Vegan
+5227,5,red miso,Vegan
+5236,1,granular fructose,Vegan
+5238,1,epazote,Vegan
+5263,21,fenugreek leaves,Vegan
+5264,1,fresh jalapeno chilie,Vegan
+5270,2,soya milk,Vegetarian
+5284,6,polish kielbasa,Vegan
+5291,2,roasted tomato salsa,Vegan
+5298,1,sweet marsala wine,Vegan
+5312,8,mint sauce,Vegan
+5316,0,raw wild rice,Vegan
+5363,6,unsweetened frozen blueberries,Vegan
+5372,0,instant coconut cream pudding mix,Vegetarian
+5390,0,wild rice mix,Vegan
+5393,9,butter lettuce,Vegetarian
+5395,2,large curd cottage cheese,Vegetarian
+5396,2,tempeh,Vegan
+5406,0,floury potatoes,Vegan
+5413,1,fresh dill weed,Vegan
+5416,1,fresh onions,Vegan
+5416,4,spanish ham,Omnivore
+5416,7,whole bay leaf,Vegan
+5425,6,red ripe tomato,Vegan
+5432,7,canned pinto beans,Vegan
+5450,8,ruby red grapefruit juice,Vegan
+5450,11,grapefruit zest,Vegan
+5451,14,diamond walnuts,Vegan
+5453,4,watermelon juice,Vegan
+5458,1,frozen unsweetened strawberries,Vegan
+5465,2,prosciutto ham,Omnivore
+5467,2,light monterey jack cheese,Vegetarian
+5481,4,allspice berry,Vegan
+5483,10,lumpia skins,Vegan
+5487,2,banana ice cream,Vegetarian
+5490,5,prune baby food,Vegan
+5527,3,rosamarina pasta,Vegan
+5534,7,regular basil,Vegan
+5541,1,nonfat vanilla soymilk,Vegan
+5543,0,sirloin tip steaks,Vegan
+5544,0,frozen snow peas,Vegan
+5545,0,raw beets,Vegan
+5584,4,dried sweet pepper,Vegan
+5593,2,canned mandarin oranges,Vegan
+5596,11,plum preserves,Vegan
+5609,4,vegetarian chicken pieces,Omnivore
+5610,2,french fries,Vegan
+5627,8,chipotle hot sauce,Vegan
+5629,0,lobster tails,Vegan
+5630,1,puff pastry shells,Vegan
+5646,0,lean salt pork,Omnivore
+5646,1,lamb chop,Omnivore
+5648,4,solid white tuna,Vegan
+5658,3,bottled clam juice,Vegan
+5661,4,italian stewed tomatoes,Vegan
+5664,7,choy sum,Vegan
+5678,9,chinese red vinegar,Vegan
+5685,3,dark sweet cherry,Vegan
+5699,0,pappardelle pasta,Vegan
+5699,4,yellow cherry tomatoes,Vegan
+5702,6,cannellini,Vegan
+5704,3,spanish olive oil,Vegan
+5704,6,green seedless grapes,Vegan
+5730,5,besan flour,Vegan
+5738,3,versatile roast beef in the crock pot,Omnivore
+5738,4,aged cheddar cheese,Vegetarian
+5739,0,cheese slices,Vegetarian
+5743,0,bitter melon,Vegan
+5744,1,papaya nectar,Vegan
+5754,0,robin hood oats,Vegan
+5766,0,bucatini pasta,Vegan
+5767,0,tuna in brine,Vegan
+5784,12,belgian endive,Vegan
+5787,6,unsweetened pineapple chunks,Vegan
+5790,3,light boursin cheese,Vegetarian
+5798,1,campanelle pasta,Vegan
+5806,1,chocolate graham cracker crumbs,Vegan
+5809,0,absinthe,Vegan
+5815,2,string beans,Vegan
+5824,1,chicken fillet,Omnivore
+5824,3,yellow sweet bell pepper,Vegan
+5830,5,carob chips,Vegan
+5845,4,angel flake coconut,Vegan
+5859,12,canned red kidney beans,Vegan
+5863,5,barley malt syrup,Vegan
+5874,1,back bacon,Omnivore
+5878,0,globe eggplant,Vegan
+5888,2,plum jam,Vegan
+5896,7,amchur,Vegan
+5925,0,green creme de menthe,Vegan
+5927,0,tapioca,Vegan
+5938,2,green sweet pepper,Vegan
+5982,7,instant butterscotch pudding mix,Vegetarian
+5995,0,premade puff pastry,Vegan
+5996,0,whipped butter,Vegetarian
+6014,10,condensed chicken broth,Omnivore
+6015,8,raw zucchini,Vegan
+6016,0,seltzer water,Vegan
+6048,2,hot ketchup,Vegan
+6054,3,marsala,Vegan
+6058,0,apricot brandy,Vegan
+6065,0,mandarin oranges in juice,Vegan
+6082,0,all beef wieners,Omnivore
+6089,4,frozen cauliflower,Vegan
+6104,9,curly endive lettuce,Vegan
+6104,12,hazelnut oil,Vegan
+6113,2,instant banana pudding mix,Vegetarian
+6113,4,green grape,Vegan
+6125,3,watermelon wedges,Vegan
+6138,0,calrose rice,Vegan
+6141,0,fresh brussels sprout,Vegan
+6149,4,green peppercorn,Vegan
+6153,9,sweet peppers,Vegan
+6161,3,radiatore,Vegan
+6194,1,candied citron peel,Vegan
+6209,0,chinkiang vinegar,Vegan
+6226,1,fresh sea scallops,Vegan
+6234,2,french style green bean,Vegan
+6238,7,frozen mixed berries,Vegan
+6245,3,guavas,Vegan
+6266,0,frozen brussels sprouts,Vegan
+6268,5,herbed croutons,Vegan
+6286,4,ladyfinger,Vegan
+6287,1,whole corn,Vegan
+6300,0,medium pasta shells,Vegan
+6301,7,taleggio,Vegan
+6313,9,ground white pepper,Vegan
+6314,2,stevia,Vegan
+6316,1,dried tamarind,Vegan
+6327,6,treacle,Vegan
+6337,7,sweet milk,Vegetarian
+6341,1,canned anchovy fillets,Vegan
+6350,0,instant nonfat dry milk powder,Vegetarian
+6352,0,tuna steak,Vegan
+6359,6,curry leaf,Vegan
+6366,0,dry pasta shell macaroni,Vegan
+6371,0,boneless beef rump roast,Omnivore
+6377,11,sultana raisin,Vegan
+6382,3,instant lemon pudding mix,Vegetarian
+6392,0,lean ham,Omnivore
+6393,12,hungarian paprika,Vegan
+6395,1,halibut fillet,Vegan
+6417,13,udon noodles,Vegan
+6433,2,chocolate milk,Vegetarian
+6443,1,pepperidge farm herb stuffing,Vegan
+6450,5,cooking apple,Vegan
+6453,11,gumbo file,Vegan
+6461,0,san marzano tomatoes,Vegan
+6498,3,marinated artichoke,Vegan
+6506,12,broad beans,Vegan
+6534,11,heinz chili sauce,Vegan
+6535,3,turkey slices,Omnivore
+6564,1,medium cheddar,Vegan
+6565,0,dry pinto beans,Vegan
+6572,8,heineken lager beer,Vegan
+6576,0,beef ribs,Omnivore
+6584,3,bagels,Vegan
+6597,0,frozen puff pastry shells,Vegan
+6620,0,split chickpeas,Vegan
+6624,0,sweet plums,Vegan
+6654,0,soft silken tofu,Vegan
+6659,0,phyllo pastry sheets,Vegan
+6664,2,lowfat swiss cheese,Vegetarian
+6668,3,palm oil,Vegan
+6687,2,brown sugar substitute,Vegan
+6690,0,new potato,Vegan
+6699,6,mexican lime,Vegan
+6748,6,lox,Vegan
+6766,5,fresh pear,Vegan
+6771,0,chai tea teabags,Vegan
+6788,7,small onion,Vegan
+6794,1,red leicester cheese,Vegetarian
+6799,2,filet of beef,Omnivore
+6807,9,hot chicken broth,Omnivore
+6825,0,boneless pork,Omnivore
+6851,0,peppadew pepper,Vegan
+6871,6,gold medal wondra flour,Vegan
+6899,4,cavatappi pasta,Vegan
+6901,4,herb stuffing cubes,Vegan
+6903,10,live lobsters,Vegan
+6908,2,nature valley oats and honey crunchy granola bars,Vegetarian
+6924,10,mild chile,Vegan
+6928,0,dried white beans,Vegan
+6942,1,frozen cubed hash brown potatoes,Vegan
+6947,0,dried tart cherries,Vegan
+6953,0,pickling cucumber,Vegan
+6956,6,banana rum,Vegan
+6962,0,edam cheese,Vegetarian
+6964,1,fresh dill sprigs,Vegan
+6967,5,kale leaves,Vegan
+6967,6,dried lemongrass,Vegan
+6967,8,dried ginger,Vegan
+6972,5,fresh cherries,Vegan
+6987,0,boneless chicken breast half,Omnivore
+6991,4,orange curacao,Vegan
+7001,0,soy margarine,Vegan
+7007,4,mango salsa,Vegan
+7018,0,guava juice,Vegan
+7026,3,passion fruit nectar,Vegan
+7047,0,jamaican rum,Vegan
+7056,0,beef shank,Omnivore
+7057,5,yellow sweet onion,Vegan
+7064,0,converted white rice,Vegan
+7073,7,sour pitted cherries,Vegan
+7077,1,smooth cashew butter,Vegetarian
+7085,0,plantains,Vegan
+7085,1,raw honey,Vegetarian
+7087,4,frozen avocado dip,Vegan
+7088,8,potato flour,Vegan
+7095,1,top round roast,Vegan
+7115,7,dried leaf thyme,Vegan
+7118,0,chicken thigh fillets,Omnivore
+7138,2,cherry gelatin,Vegan
+7143,3,romaine lettuce leaves,Vegan
+7157,5,steamer clams,Vegan
+7211,0,vegan mayonnaise,Vegetarian
+7235,0,flax seed oil,Vegan
+7257,9,ground rosemary,Vegan
+7273,5,flaked sea salt,Vegan
+7278,4,mandarin orange sections,Vegan
+7283,0,fresh okra,Vegan
+7290,12,nigella seeds,Vegan
+7293,1,trout,Vegan
+7296,4,roasted sichuan peppercorn,Vegan
+7296,5,sesame seed paste,Vegan
+7298,0,sliced apples,Vegan
+7299,2,cardamom seeds,Vegan
+7334,13,white pepper powder,Vegan
+7341,5,fat free sharp cheddar cheese,Vegetarian
+7349,4,sweet apples,Vegan
+7352,5,boneless pork loin chops,Omnivore
+7365,17,date honey,Vegetarian
+7366,6,ale,Vegan
+7371,0,tofu hot dogs,Vegan
+7371,1,vegetarian hot dogs,Vegan
+7384,5,bay shrimp,Vegan
+7385,0,all purpose dinner crepes batter,Vegan
+7394,6,tarragon leaf,Vegan
+7409,2,ajwain,Vegan
+7418,0,boneless round steak,Vegan
+7422,5,ricotta salata,Vegan
+7434,0,dry northern white beans,Vegan
+7465,0,light cherry pie filling,Vegan
+7465,1,light vanilla soymilk,Vegan
+7479,1,grapefruit sections,Vegan
+7479,3,fresh pineapple chunks,Vegan
+7483,6,dried prune,Vegan
+7493,1,light mozzarella cheese,Vegetarian
+7512,5,fresh crabmeat,Vegan
+7514,7,yellow sweet peppers,Vegan
+7528,2,blood orange,Vegan
+7529,2,instant tea,Vegan
+7533,4,madeira wine,Vegan
+7554,2,vegan bacon,Omnivore
+7563,6,gluten,Vegan
+7570,4,baby turnips,Vegan
+7571,5,hawaiian sea salt,Vegan
+7573,4,turkey tenderloins,Omnivore
+7579,0,french lentils,Vegan
+7583,8,dried lima beans,Vegan
+7584,0,raspberry ice cream,Vegetarian
+7591,10,methi leaves,Vegan
+7595,0,raw carrots,Vegan
+7595,1,suet,Vegan
+7602,7,lemon balm,Vegan
+7602,9,lemon balm leaves,Vegan
+7603,10,canned peas,Vegan
+7613,11,fried tofu,Vegan
+7627,5,rotelle pasta,Vegan
+7638,9,whole wheat english muffins,Vegan
+7643,2,swiss chard leaves,Vegan
+7643,6,red roasted tomatillo salsa with chiles,Vegan
+7648,1,dried fennel,Vegan
+7668,1,lemon leaves,Vegan
+7673,3,baby red potato,Vegan
+7687,3,cardamom seed,Vegan
+7693,4,brown basmati rice,Vegan
+7696,3,shrimp paste,Vegan
+7702,5,raw carrot,Vegan
+7710,0,sirloin tip steak,Vegan
+7731,5,beef mince,Omnivore
+7741,0,channa dal,Vegan
+7741,5,jaggery,Vegan
+7747,0,barberries,Vegan
+7750,0,unsweetened soymilk,Vegan
+7750,4,irish moss,Vegan
+7769,4,vanilla bean paste,Vegan
+7774,6,fast rise yeast,Vegan
+7776,2,walnut meats,Vegan
+7777,4,armagnac,Vegan
+7781,2,head of cabbage,Vegan
+7789,1,catfish fillet,Vegan
+7795,8,pastis,Vegan
+7797,0,soy protein,Vegan
+7798,0,aubergines,Vegan
+7798,1,courgette,Vegan
+7801,4,chocolate bar,Vegan
+7808,0,stone ground whole wheat flour,Vegan
+7815,2,cinnamon graham crackers,Vegan
+7819,0,vegetarian gelatin,Vegan
+7844,2,enriched rice,Vegan
+7851,10,barbecue sauce concentrate,Vegan
+7865,3,powdered oregano,Vegan
+7865,4,powdered thyme,Vegan
+7872,0,hash brown,Vegan
+7873,6,sockeye salmon,Omnivore
+7897,3,acini di pepe pasta,Vegan
+7904,8,savory seasoning,Vegan
+7910,10,salmon steak,Omnivore
+7915,1,apple brandy,Vegan
+7917,3,bosc pears,Vegan
+7918,3,aubergine,Vegan
+7920,3,speck,Vegan
+7935,4,hickory flavored barbecue sauce,Vegan
+7938,8,parchment paper,Vegan
+7974,4,hot chili pepper,Vegan
+7977,7,canadian cheddar cheese,Vegetarian
+7981,0,idaho potato,Vegan
+8002,3,tomato chutney,Vegan
+8012,6,cabbage leaves,Vegan
+8033,3,instant espresso coffee powder,Vegan
+8056,0,lobster,Vegan
+8061,3,roasted pecan,Vegan
+8068,4,vegan cheese,Vegetarian
+8070,5,diced tomatoes with jalapenos,Vegan
+8079,0,dry linguine,Vegan
+8079,1,tagliatelle pasta noodles,Vegan
+8079,3,sweetcorn,Vegan
+8090,8,sweet unsalted butter,Vegetarian
+8098,2,broad bean,Vegan
+8105,0,black plums,Vegan
+8141,0,make your own greek yoghurt,Vegan
+8148,3,spinach tortillas,Vegan
+8159,3,sumaq,Vegan
+8162,0,sweet cherries,Vegan
+8165,2,anchovy fillet,Vegan
+8166,0,cos lettuce,Vegan
+8186,3,sweet bell pepper,Vegan
+8190,0,borlotti beans,Vegan
+8200,0,ginger beer,Vegan
+8210,1,cheddar cheese powder,Vegetarian
+8218,0,fillets of sole,Vegan
+8232,4,vegetarian bacon,Omnivore
+8232,10,sweet oranges,Vegan
+8238,10,wondra flour,Vegan
+8247,16,mexican rice,Vegan
+8249,0,sea bass fillet,Vegan
+8257,0,braunschweiger sausage,Omnivore
+8261,0,fresh chestnuts,Vegan
+8266,2,cilantro stems,Vegan
+8266,20,cooked jasmine rice,Vegan
+8272,3,dry tarragon,Vegan
+8276,11,mango powder,Vegan
+8302,5,carbonated water,Vegan
+8312,0,purple plums,Vegan
+8321,0,veal liver,Vegan
+8321,2,anchovy,Vegan
+8321,8,chicken backs,Omnivore
+8329,0,boiling onions,Vegan
+8335,4,yukon gold potato,Vegan
+8335,14,diced tomatoes with basil and garlic,Vegan
+8364,4,lean lamb,Omnivore
+8367,3,vanilla pod,Vegan
+8367,7,sponge cake fingers,Vegan
+8370,4,head lettuce,Vegan
+8380,0,boneless beef cubes,Omnivore
+8384,1,dried craisin,Vegan
+8421,1,spiced rum,Vegan
+8423,4,instant bouillon granules,Vegan
+8434,0,pierogi,Vegan
+8461,0,albacore tuna in water,Vegan
+8468,0,beef steak,Omnivore
+8468,6,szechuan peppercorns,Vegan
+8471,7,roasted walnut,Vegan
+8477,6,dry marsala,Vegan
+8481,8,fresh snow pea,Vegan
+8487,0,dry apple cider,Vegan
+8523,0,chocolate pudding mix,Vegetarian
+8550,6,chorizo,Vegan
+8566,4,canned italian tomatoes,Vegan
+8566,8,other pastas,Vegan
+8582,4,small mushrooms,Vegan
+8586,2,young ginger root,Vegan
+8590,2,process american cheese,Vegetarian
+8597,4,plum filling,Vegan
+8605,0,mcintosh apple,Vegan
+8616,4,vegetarian hamburger patties,Vegan
+8643,3,yucca root,Vegan
+8643,4,plantain,Vegan
+8674,0,sliced apple,Vegan
+8679,6,scallion top,Vegan
+8680,3,fine sugar,Vegan
+8681,7,mahleb,Vegan
+8683,0,chicken thigh pieces,Omnivore
+8683,12,roasted cashew nuts,Vegan
+8688,0,red lentil,Vegan
+8713,4,canned whole tomatoes,Vegan
+8715,4,calvados,Vegan
+8718,4,bosc pear,Vegan
+8736,7,prepared pudding,Vegetarian
+8752,0,lamb steaks,Omnivore
+8760,0,coconut meat,Omnivore
+8770,4,fresh dill leaves,Vegan
+8772,7,dry buttermilk,Vegan
+8782,2,yellow rice mix,Vegan
+8783,0,jello instant vanilla pudding mix,Vegetarian
+8806,3,garlic juice,Vegan
+8809,2,southern style hash browns,Vegan
+8822,0,lamb shank,Omnivore
+8832,1,beefsteak tomato,Vegan
+8836,2,jonagold apples,Vegan
+8850,5,rosemary sprig,Vegan
+8867,1,stone ground dijon mustard,Vegan
+8902,0,saffron strand,Vegan
+8902,6,whole cardamom pods,Vegan
+8902,17,mint leaves,Vegan
+8919,8,salmon salad,Omnivore
+8922,2,bottled chili sauce,Vegan
+8925,6,green onions with top,Vegan
+8930,0,gemelli pasta,Vegan
+8955,13,grits,Vegan
+8971,0,fryer chickens,Omnivore
+8991,6,amaretti cookies,Vegan
+9010,5,dried red lentils,Vegan
+9014,5,alfalfa,Vegan
+9021,3,oregano flakes,Vegan
+9046,4,sage sprigs,Vegan
+9048,0,italian pork sausage,Omnivore
+9072,0,small potatoes,Vegan
+9076,8,canned artichoke hearts,Vegan
+9079,7,soy mozzarella cheese,Vegetarian
+9081,7,cubanelle peppers,Vegan
+9092,10,lobster tail,Vegan
+9109,3,nido milk,Vegetarian
+9116,0,peking duck,Omnivore
+9117,11,frozen sugar snap peas,Vegan
+9122,4,dried sweet peppers,Vegan
+9148,1,soybeans,Vegan
+9166,6,cantaloupes,Vegan
+9191,2,dry instant coffee,Vegan
+9197,0,chocolate bars,Vegan
+9222,6,black and red pepper blend,Vegan
+9226,10,beetroot,Vegan
+9229,0,cucuzza,Vegan
+9233,13,sweet whole kernel corn,Vegan
+9245,2,key lime zest,Vegan
+9252,3,frozen asparagus cuts,Vegan
+9288,8,butter lettuce leaves,Vegetarian
+9290,1,vegetarian sausage patties,Omnivore
+9304,14,vegetarian oyster sauce,Vegan
+9316,1,solid white tuna packed in water,Vegan
+9316,2,whole tomato,Vegan
+9337,3,small marshmallows,Vegan
+9339,3,medium grain rice,Vegan
+9342,0,frozen cranberry juice concentrate,Vegan
+9363,3,onion rings,Vegan
+9374,2,mung bean sprouts,Vegan
+9378,0,dried mango,Vegan
+9378,1,dried papaya,Vegan
+9389,1,mostaccioli pasta,Vegan
+9396,0,fresh apricot,Vegan
+9403,4,tomato base barbecue sauce,Vegan
+9406,3,bacardi dark rum,Vegan
+9415,7,muesli,Vegan
+9429,0,top round steak,Vegan
+9429,7,sour cream substitute,Vegetarian
+9434,5,corn tortilla strips,Vegan
+9444,0,melon,Vegan
+9462,6,brown and serve sausages,Vegan
+9484,2,canned artichoke heart,Vegan
+9491,8,brick cheese,Vegetarian
+9531,6,canned corn kernel,Vegan
+9563,0,firm silken tofu,Vegan
+9575,0,boneless pork sirloin,Omnivore
+9636,5,homemade lavender honey,Vegetarian
+9638,0,basic dough,Vegan
+9640,8,nam pla,Vegan
+9668,2,cashew halves,Vegan
+9707,0,frozen unsweetened mixed berries,Vegan
+9735,6,prepared graham cracker crust,Vegan
+9769,0,cooked barley,Vegan
+9771,10,chestnuts,Vegan
+9773,0,quinces,Vegan
+9796,2,red radishes,Vegan
+9807,4,ducks,Vegan
+9831,6,plain soymilk,Vegan
+9832,1,chayote,Vegan
+9853,3,perch,Vegan
+9861,1,pistachio pudding mix,Vegetarian
+9869,5,pear brandy,Vegan
+9871,2,mace blade,Vegan
+9874,1,simple and healthy poached salmon,Omnivore
+9881,4,mexican tomato,Vegan
+9897,0,sardine fillets,Vegan
+9918,0,cinnamon raisin bagel,Vegan
+9921,2,vegan egg substitute,Vegetarian
+9951,2,boursin cheese,Vegetarian
+9955,0,raspberry gelatin powder,Vegan
+9956,8,sazon goya with coriander and annatto,Vegan
+9967,6,pineapple bits,Vegan
+9986,7,peppadew peppers,Vegan
+9996,4,fine semolina,Vegan
+9998,4,shrimp stock,Vegan
+10021,4,milk solids,Vegetarian
+10031,0,rainbow trout,Vegan
+10033,8,chinese barbecue sauce,Vegan
+10066,7,tuna fillets,Vegan
+10083,0,ginger syrup,Vegan
+10104,1,japanese soy sauce,Vegan
+10104,7,daikon radishes,Vegan
+10115,4,asian pear,Vegan
+10122,5,anjou pears,Vegan
+10125,8,other brandy,Vegan
+10170,9,head iceberg lettuce,Vegan
+10171,8,blood oranges,Vegan
+10191,0,vegetarian ground beef,Omnivore
+10191,5,garlic flakes,Vegan
+10197,5,nonfat chicken broth,Omnivore
+10234,0,butterscotch pudding mix,Vegetarian
+10238,4,frozen whole strawberries,Vegan
+10267,8,tomato with juice,Vegan
+10293,2,key lime,Vegan
+10295,5,red chicory,Vegan
+10298,3,bean thread noodles,Vegan
+10302,0,sweet potato baby food,Vegan
+10311,7,frying chickens,Omnivore
+10313,8,vegetarian worcestershire sauce,Vegan
+10336,9,dry tapioca,Vegan
+10345,0,french vanilla ice cream,Vegetarian
+10345,1,eggnog ice cream,Vegetarian
+10369,8,black lentils,Vegan
+10377,4,crazy salt,Vegan
+10386,0,white turkey meat,Omnivore
+10386,5,morton lite salt,Vegan
+10390,8,pork sausage link,Omnivore
+10393,0,chicory lettuce,Vegan
+10407,4,medium firm tofu,Vegan
+10445,5,wheat flour tortilla,Vegan
+10454,0,boneless pork blade roast,Omnivore
+10462,0,orange blossom honey,Vegetarian
+10465,9,fuji apple,Vegan
+10520,1,fresh sea scallop,Vegan
+10544,3,canned asparagus,Vegan
+10546,0,dry penne pasta,Vegan
+10549,3,guar gum,Vegan
+10551,0,piloncillo cones,Vegan
+10552,2,japanese pumpkin,Vegan
+10558,2,unsalted side pork,Omnivore
+10590,5,dry parmesan cheese,Vegetarian
+10610,3,wonton wrapper,Vegan
+10626,0,granola bars,Vegan
+10634,0,vegan cream of mushroom soup,Vegetarian
+10634,5,vegan parmesan cheese,Vegetarian
+10640,6,lady finger cookies,Vegan
+10660,1,chinese hot mustard,Vegan
+10671,0,portabella mushroom cap,Vegan
+10683,8,fresh thyme sprig,Vegan
+10692,2,chihuahua cheese,Vegetarian
+10697,5,peppar vodka,Vegan
+10728,0,hot italian sausage links,Omnivore
+10735,2,passion fruit liqueur,Vegan
+10741,7,salted cashew pieces,Vegan
+10751,5,soy cheddar cheese,Vegetarian
+10770,10,sweet tart crust,Vegan
+10781,1,skim evaporated milk,Vegetarian
+10803,1,broccoli raab,Vegan
+10814,2,smelt,Vegan
+10816,0,heads cauliflower,Vegan
+10822,1,prepared pumpkin,Vegan
+10852,5,fresh green chilies,Vegan
+10870,3,eggshells,Vegan
+10924,2,stevia powder,Vegan
+10948,0,sour cream and chive flavored cream cheese,Vegetarian
+10957,3,dried savory,Vegan
+10964,2,bock beer,Vegan
+11002,7,fresh snow peas,Vegan
+11027,0,white asparagus,Vegan
+11040,5,artichoke,Vegan
+11052,1,bulbs shallots,Vegan
+11075,7,hoisin sauce recipe,Vegan
+11081,9,black olive oil,Vegan
+11106,0,pheasants,Vegan
+11135,0,blue corn tortillas,Vegan
+11140,1,sweet apple,Vegan
+11146,1,mexican chili beans,Vegan
+11169,0,green bananas,Vegan
+11169,3,vegetable marrows,Vegan
+11179,1,corona beer,Vegan
+11207,3,banana chips,Vegan
+11239,5,hard cheese,Vegetarian
+11246,4,liquid sweetener,Vegan
+11280,0,silver beet,Vegan
+11284,4,tomato sauce with basil garlic and oregano,Vegan
+11284,10,parmesan croutons,Vegan
+11303,3,low fat  sweetened condensed milk,Vegetarian
+11351,9,jalapeno relish,Vegan
+11375,8,cranberry beans,Vegan
+11384,2,swede,Vegan
+11394,4,marjoram leaves,Vegan
+11421,6,watermelon rind,Vegan
+11441,0,green mango,Vegan
+11469,12,lobster head,Vegan
+11503,2,karo light corn syrup,Vegan
+11523,5,tomatoes in puree,Vegan
+11526,0,dry green lentils,Vegan
+11564,1,lychee juice,Vegan
+11569,0,gooseberry,Vegan
+11572,10,basil vinaigrette dressing,Vegan
+11607,2,cherrystone clams,Vegan
+11613,5,mexican tomato sauce,Vegan
+11621,0,black cherry gelatin,Vegan
+11624,1,kirby cucumber,Vegan
+11624,12,smoked tofu,Vegan
+11641,4,dried sweet basil leaves,Vegan
+11653,3,chili bean sauce,Vegan
+11653,4,chili bean paste,Vegan
+11653,6,fermented black beans,Vegan
+11676,0,baby eggplants,Vegan
+11688,0,prickly pears,Vegan
+11700,0,ahi tuna steaks,Vegan
+11715,0,mesclun,Vegan
+11724,2,candied walnuts,Vegan
+11745,2,white flour tortillas,Vegan
+11752,0,mango puree,Vegan
+11758,0,raw cranberries,Vegan
+11793,6,dry coconut powder,Vegan
+11793,10,unsweetened flaked coconut,Vegan
+11803,3,ground hazelnuts,Vegan
+11814,1,onion seasoning mix,Vegan
+11821,4,haricot beans,Vegan
+11821,5,adzuki beans,Vegan
+11835,0,heavy sweet cream,Vegetarian
+11849,5,simple honey mustard salad dressing,Vegetarian
+11854,13,thyme honey,Vegetarian
+11859,0,quark,Vegan
+11883,2,pineapple vodka,Vegan
+11894,4,instant mashed potatoes with sour cream and chives,Vegetarian
+11916,1,cream cheese with chives,Vegetarian
+11930,6,farina,Vegan
+11961,5,porcini mushrooms,Vegan
+11969,0,idaho baking potatoes,Vegan
+11969,7,kosher dill pickles,Vegan
+12032,1,leaf lettuce,Vegan
+12061,11,yellow sweet bell peppers,Vegan
+12061,12,orange sweet bell pepper,Vegan
+12062,5,dried pear half,Vegan
+12065,1,smoked gruyere cheese,Vegetarian
+12084,1,barley malt,Vegan
+12085,1,hazelnut meal,Vegan
+12099,4,tomatoes with onion and garlic,Vegan
+12114,17,remoulade sauce,Vegan
+12117,4,persian saffron water,Vegan
+12127,10,sweet bell peppers,Vegan
+12187,2,plum baby food,Vegan
+12189,12,dry white beans,Vegan
+12196,8,cherries in syrup,Vegan
+12200,3,stranger things candy carton assembly,Vegan
+12215,1,vegemite,Vegan
+12222,4,green asparagus,Vegan
+12230,0,rose extract,Vegan
+12254,8,whole mustard seeds,Vegan
+12271,0,clams in shell,Vegan
+12287,1,parsley stems,Vegan
+12295,1,wildflower honey,Vegetarian
+12299,0,mafalda pasta,Vegan
+12299,3,lardons,Vegan
+12303,0,yellow lentils,Vegan
+12319,0,dry curd cottage cheese,Vegetarian
+12340,2,blue potatoes,Vegan
+12348,1,barbecued chicken,Omnivore
+12349,0,beef rib,Omnivore
+12367,3,red shallot,Vegan
+12470,5,chicken gumbo soup,Omnivore
+12515,0,kumara,Vegan
+12574,4,martha white buttermilk,Vegan
+12577,0,lean rump steak,Vegan
+12622,4,diced tomatoes with mild green chilies,Vegan
+12627,5,iceberg lettuce leaf,Vegan
+12653,0,chocolate graham crackers,Vegan
+12664,2,basic white stock,Vegan
+12684,2,bulbs of garlic,Vegan
+12716,2,tuna fish,Omnivore
+12719,0,baby red potatoes,Vegan
+12731,1,preserved black bean,Vegan
+12754,4,red pear tomatoes,Vegan
+12754,9,fresh pepper,Vegan
+12766,12,white chocolate curls,Vegan
+12794,11,grilled lemons,Vegan
+12797,15,hot green chili peppers,Vegan
+12837,9,prepared brown mustard,Vegan
+12848,0,bottled water,Vegan
+12854,0,lean beef,Omnivore
+12877,0,squid rings,Vegan
+12881,0,fresh lima beans,Vegan
+12896,8,chinese braised gluten,Vegan
+12899,3,rice paper,Vegan
+12902,1,roasted soybeans,Vegan
+12903,0,garlic scape,Vegan
+12922,9,bartlett pear,Vegan
+12933,1,aspic,Vegan
+12973,8,cabbage leaf,Vegan
+12984,0,lean lamb steaks,Omnivore
+12993,1,habaneros,Vegan
+12996,0,red ripe tomatoes,Vegan
+13017,3,lebanese cucumbers,Vegan
+13018,5,beef tenderloin steak,Omnivore
+13026,0,instant roasted garlic mashed potatoes,Vegan
+13048,0,plain white flour,Vegan
+13054,2,cheshire cheese,Vegetarian
+13069,3,kasuri methi,Vegan
+13120,0,steelhead trout,Vegan
+13135,10,cardamoms,Vegan
+13159,0,boneless lamb roast,Omnivore
+13164,0,dark cooking chocolate,Vegan
+13188,3,dill pickle spear,Vegan
+13199,11,lamb loin chops,Omnivore
+13212,0,sirloin lamb chops,Omnivore
+13238,1,stolichnaya vodka,Vegan
+13265,0,absolut citron vodka,Vegan
+13274,5,homemade rich fresh ricotta cheese,Vegetarian
+13275,13,fat free tortillas,Vegan
+13288,3,horn salt,Vegan
+13301,0,frozen potato and onion pierogies,Vegan
+13339,1,boudoir biscuits,Vegan
+13373,2,whole nutmegs,Vegan
+13377,5,diced pimento,Vegan
+13389,7,baby leaf lettuce,Vegan
+13397,4,pie apples,Vegan
+13404,5,instant white chocolate pudding and pie filling mix,Vegetarian
+13407,0,ice cream sandwich,Vegetarian
+13408,1,fresh rosemary needles,Vegan
+13420,1,celery top,Vegan
+13511,5,buckwheat honey,Vegetarian
+13539,2,red beet,Vegan
+13541,1,lean beef chuck roast,Omnivore
+13541,2,regular hamburger,Vegan
+13541,3,prepared garlic in oil,Vegan
+13541,5,fresh jalapeno chilies,Vegan
+13541,6,dry ancho chilies,Vegan
+13541,9,fresh cumin seed,Vegan
+13588,0,chicken cutlet,Omnivore
+13625,4,tomato bisque,Vegan
+13652,1,garbanzo flour,Vegan
+13656,7,vegan sugar,Vegan
+13667,4,boneless salmon fillet,Omnivore
+13675,14,mexican vegetarian ground meat substitute,Omnivore
+13677,6,mixed baby lettuces and spring greens,Vegan
+13695,1,chipotle chile,Vegan
+13743,5,crayfish,Vegan
+13768,3,canned chipotle chile,Vegan
+13782,9,german chocolate bar,Vegan
+13792,3,pork jowl,Omnivore
+13794,0,mild chiles,Vegan
+13798,2,strawberry slices,Vegan
+13816,2,white chocolate pudding mix,Vegetarian
+13864,1,gem lettuce,Vegan
+13865,2,rome apples,Vegan
+13893,2,italian olive oil,Vegan
+13927,0,lemon flavor instant pudding and pie filling,Vegetarian
+13983,4,mandarin orange section,Vegan
+14020,1,spanish onions,Vegan
+14037,0,peach chutney,Vegan
+14056,5,aged white cheddar cheese,Vegetarian
+14058,6,whole chestnuts,Vegan
+14118,4,amaretti,Vegan
+14152,6,white rice with basil and corn from casa marcela,Vegan
+14172,2,orgeat syrup,Vegan
+14222,3,boiling potato,Vegan
+14227,0,powdered instant coffee,Vegan
+14227,1,prepared chocolate pudding,Vegetarian
+14251,3,cinnamon ice cream,Vegetarian
+14277,0,hunts tomato sauce,Vegan
+14324,3,fresh ricotta,Vegan
+14333,0,boneless center cut pork chops,Omnivore
+14342,2,dried garlic flakes,Vegan
+14353,1,beef fat,Omnivore
+14373,0,lamb rib chops,Omnivore
+14379,12,hot green chili pepper,Vegan
+14386,5,sour cherry,Vegan
+14413,2,white truffle,Vegan
+14415,3,red table wine,Vegan
+14455,1,german chocolate,Vegan
+14505,2,sugar water,Vegan
+14552,0,cornbread mix,Vegan
+14584,8,frozen cut okra,Vegan
+14601,0,red onion strip,Vegan
+14617,1,reduced fat graham cracker crust,Vegan
+14663,0,boneless pork cutlets,Omnivore
+14719,6,small caper,Vegan
+14728,11,dried curry leaves,Vegan
+14731,4,dried fava beans,Vegan
+14755,3,american cheese spread,Vegetarian
+14763,0,unsalted shelled pistachio,Vegan
+14766,2,powdered soy protein concentrate,Vegan
+14768,1,yellow sweet onions,Vegan
+14824,4,light raisins,Vegan
+14830,5,black beans with jalapenos,Vegan
+14875,4,head of lettuce,Vegan
+14886,4,medium sharp cheddar,Vegan
+14887,9,liquid stevia,Vegan
+14913,4,wheat flour tortillas,Vegan
+14938,0,country sausage,Omnivore
+14941,2,vegan worcestershire sauce,Vegan
+14956,9,dried chipotle chile,Vegan
+14959,0,rapini,Vegan
+14977,5,bread machine flour,Vegan
+14997,0,tripe,Vegan
+14997,3,veal sweetbreads,Vegan
+15011,4,dried mint flakes,Vegan
+15022,4,hazelnut kernels,Vegan
+15025,7,sorghum,Vegan
+15040,6,candied pecans,Vegan
+15097,11,soy ice cream,Vegetarian
+15099,0,rich homemade ranch dressing,Vegan
+15141,1,low calorie sweetener,Vegan
+15149,3,chai tea,Vegan
+15151,9,reduced fat romano cheese,Vegetarian
+15171,6,ground celery seed,Vegan
+15174,5,tofutti sour cream,Vegetarian
+15175,0,dried habanero chiles,Vegan
+15175,1,ground habanero chile pepper,Vegan
+15175,4,unsweetened raspberries,Vegan
+15176,0,chicken thigh fillet,Omnivore
+15215,1,honey graham crackers,Vegetarian
+15240,1,cantaloupe balls,Vegan
+15312,5,onion and garlic croutons,Vegan
+15326,4,fresh onion,Vegan
+15330,7,glace ginger,Vegan
+15347,8,german mustard,Vegan
+15354,4,bing cherry,Vegan
+15375,1,methi seeds,Vegan
+15376,0,dried pitted prunes,Vegan
+15393,10,bottled lemon juice,Vegan
+15407,0,ziti rigati,Vegan
+15429,13,vegetable stock with low sodium,Vegan
+15445,3,shredded hash brown potatoes,Vegan
+15448,4,black treacle,Vegan
+15457,0,beef sirloin steak,Omnivore
+15500,5,endives,Vegan
+15510,10,homemade powdered sugar with splenda and glazes,Vegan
+15516,2,fresh galangal root,Vegan
+15523,1,splenda sugar blend for baking,Vegan
+15535,5,vanilla custard,Vegan
+15548,2,unsmoked bacon,Omnivore
+15578,0,grape gelatin,Vegan
+15594,5,tomato sauce with herbs,Vegan
+15599,10,red onion ring,Vegan
+15623,0,instant chocolate fudge pudding,Vegetarian
+15645,1,dill pickle spears,Vegan
+15653,3,chinese wine,Vegan
+15709,2,dry sweetener,Vegan
+15721,0,sweet red wine,Vegan
+15724,8,poppy seed filling,Vegan
+15726,3,sweet potato flour,Vegan
+15750,1,mushroom stems,Vegan
+15752,6,soy protein isolate,Vegan
+15752,7,lecithin granules,Vegan
+15773,1,boneless beef top round steak,Omnivore
+15792,6,san georgio jumbo pasta shells,Vegan
+15807,9,white vermouth,Vegan
+15811,5,fat free flour tortillas,Vegan
+15828,6,bresaola,Vegan
+15879,0,boneless beef top loin steaks,Omnivore
+15883,3,gluten free baking powder,Vegan
+15888,5,maraschino cherries and juice,Vegan
+15895,8,clam broth,Vegan
+15901,4,capsicums,Vegan
+15940,3,cachaca,Vegan
+15947,3,canned clams,Vegan
+15967,2,vegetarian chili,Vegan
+16093,8,white poppy seeds,Vegan
+16097,0,bear shaped graham crackers,Vegan
+16113,2,chocolate soymilk,Vegan
+16129,0,bagel chips,Vegan
+16137,2,fresh white mushrooms,Vegan
+16186,3,filo pastry,Vegan
+16192,6,kale leaf,Vegan
+16207,14,broccoli sprouts,Vegan
+16217,4,skinless boneless pheasant breast halves,Vegan
+16219,4,bulgur wheat,Vegan
+16230,2,colored miniature marshmallows,Vegan
+16247,1,date sugar,Vegan
+16253,2,del monte crushed tomatoes with mild green chilies,Vegan
+16288,3,caerphilly cheese,Vegetarian
+16288,4,lancashire cheese,Vegetarian
+16310,4,prune juice,Vegan
+16320,7,lady baltimore filling and icing,Vegan
+16341,0,shin beef,Omnivore
+16342,0,elderberry flowers,Vegan
+16354,8,sultana raisins,Vegan
+16387,0,lamb loin chop,Omnivore
+16412,0,beef sirloin steaks,Omnivore
+16431,4,nasturtium leaves,Vegan
+16456,0,pheasant breast,Vegan
+16460,2,fresh pumpkin,Vegan
+16543,2,sole fillet,Vegan
+16556,1,pineapple salsa,Vegan
+16556,2,fruit salsa,Vegan
+16557,13,salsa fresca,Vegan
+16561,12,green plantain,Vegan
+16563,3,borscht,Vegan
+16571,10,tuna packed in oil,Vegan
+16610,4,red plum,Vegan
+16653,2,pizza dough,Vegan
+16686,4,rice and sauce mix,Vegan
+16694,2,methi dana,Vegan
+16694,10,amchur powder,Vegan
+16740,8,fingerling potato,Vegan
+16746,5,umeboshi plum paste,Vegan
+16758,2,roasted pistachios,Vegan
+16762,0,buttery soft crescent rolls,Vegan
+16777,4,morel,Vegan
+16784,7,vegetarian parmesan cheese,Vegetarian
+16788,9,dried garlic,Vegan
+16815,0,fuyu persimmons,Vegan
+16818,9,wheat gluten,Vegan
+16842,9,converted long grain rice,Vegan
+16844,3,frozen asparagus,Vegan
+16846,4,roasted vegetable stock,Vegan
+16881,3,preserved black beans,Vegan
+16909,3,frozen yogurt,Vegetarian
+16971,0,lamb necks,Omnivore
+16977,0,papaya seeds,Vegan
+16994,4,green coriander,Vegan
+17051,6,bulk taco seasoning mix,Vegan
+17056,0,white minute rice,Vegan
+17061,1,fresh yeast cakes,Vegan
+17062,2,mandarin orange pieces,Vegan
+17066,2,pinhead oats,Vegan
+17075,0,broiler chicken,Omnivore
+17088,2,frozen sliced strawberries,Vegan
+17096,0,fresh compressed yeast,Vegan
+17108,9,whole milk mozzarella,Vegetarian
+17117,1,jumbo lump crab meat,Omnivore
+17137,0,dried kasha,Vegan
+17138,0,round tip roast,Vegan
+17143,0,besan,Vegan
+17157,0,starkist tuna,Vegan
+17169,3,heads of garlic,Vegan
+17200,6,fine dutch rusk crumb,Vegan
+17200,7,sunflower margarine,Vegan
+17212,3,medium curry paste,Vegan
+17214,0,buckwheat noodles,Vegan
+17219,5,rotel diced tomatoes,Vegan
+17223,15,champignon mushrooms,Vegan
+17234,1,black vinegar,Vegan
+17259,3,globe eggplants,Vegan
+17270,2,frozen hash browns with onions and peppers,Vegan
+17292,2,tomatoes with spicy red pepper,Vegan
+17300,0,how to make chokecherry juice,Vegan
+17302,15,quick preserved lemon,Vegan
+17317,0,chicken breast fillet,Omnivore
+17362,1,light cheese,Vegetarian
+17407,0,bleu cheese spread,Vegetarian
+17448,0,grey poupon mustard,Vegan
+17455,0,dried large lima beans,Vegan
+17573,3,agar,Vegan
+17590,0,alligator tail steaks,Vegan
+17634,7,caper sauce,Vegan
+17649,5,fruit vinegar,Vegan
+17666,3,guava jelly,Vegan
+17716,2,fat free croutons,Vegan
+17721,10,kosher gelatin,Vegan
+17730,4,szechwan pepper,Vegan
+17833,0,raclette cheese,Vegetarian
+17839,12,nicoise olives,Vegan
+17863,4,mandarin segments,Vegan
+17874,0,beef short ribs with bones,Omnivore
+17892,3,round tip steak,Vegan
+17901,7,dry basil leaves,Vegan
+17908,7,dried chipotle chiles,Vegan
+17970,7,red currant jam,Vegan
+17992,11,butterscotch pudding,Vegetarian
+17994,0,tuna in vegetable oil,Vegan
+18029,3,italian plum tomato,Vegan
+18062,1,strong hot tea,Vegan
+18086,0,healthy italian breadsticks or pizza crust,Vegan
+18086,1,pizza sauce,Vegan
+18086,3,vegan mozzarella cheese,Vegetarian
+18091,3,compressed yeast cakes,Vegan
+18156,0,head of celery,Vegan
+18156,2,roquefort blue cheese,Vegetarian
+18174,0,fresh swordfish steaks,Vegan
+18176,3,lime juice concentrate,Vegan
+18216,0,butterflied leg of lamb,Omnivore
+18236,4,mint paste,Vegan
+18269,9,tamarind chutney,Vegan
+18298,1,kirsch liqueur,Vegan
+18304,6,raw sweet potato,Vegan
+18346,1,tomato bisque soup,Vegan
+18355,12,crayfish tails,Vegan
+18368,3,tofu sour cream,Vegetarian
+18393,4,dried craisins,Vegan
+18398,0,hellmanns mayonnaise,Vegetarian
+18418,1,kidney suet,Vegan
+18459,2,canned cannellini,Vegan
+18471,3,pureed chipotle chile,Vegan
+18513,0,cream cheese with green onion,Vegetarian
+18527,0,chocolate graham cracker,Vegan
+18543,1,bagel,Vegan
+18555,0,salad potatoes,Vegan
+18688,1,firm bananas,Vegan
+18696,1,best foods mayonnaise,Vegetarian
+18711,2,cactus pieces,Vegan
+18769,1,beef machaca,Omnivore
+18794,3,head of broccoli,Vegan
+18796,6,turkey slice,Omnivore
+18799,3,fresh fig,Vegan
+18851,4,metaxa brandy,Vegan
+18872,0,boneless duck breast,Omnivore
+18874,0,bing cherries,Vegan
+18886,1,whole wheat bread flour,Vegan
+18900,3,dried plums,Vegan
+18935,0,sweet creamy butter,Vegetarian
+18945,9,copha,Vegan
+18967,1,white chocolate bark,Vegan
+19008,7,seedless european cucumber,Vegan
+19028,1,strawberry syrup,Vegan
+19046,0,puff pastry sheets,Vegan
+19074,1,fresh sweet potatoes,Vegan
+19124,1,papaya paste,Vegan
+19124,10,powdered cumin,Vegan
+19132,2,almond flavored liqueur,Vegan
+19141,4,lite firm tofu,Vegan
+19144,0,boneless beef top round,Omnivore
+19172,7,whole cardamom pod,Vegan
+19187,0,weetabix,Vegan
+19203,0,nature valley pecan crunch granola bars,Vegan
+19216,0,skim milk ricotta cheese,Vegetarian
+19223,2,raw tomatoes,Vegan
+19271,7,white chocolate baking squares,Vegan
+19306,1,maytag blue cheese,Vegetarian
+19321,9,jump up and smack your mom hot sauce,Vegan
+19342,2,lemon twist,Vegan
+19391,0,soft shelled crabs,Vegan
+19465,6,green maraschino cherry,Vegan
+19469,2,apricot puree,Vegan
+19487,2,green cardamom powder,Vegan
+19512,2,white seedless grapes,Vegan
+19531,1,pickled cucumbers,Vegan
+19543,3,yellow zucchini,Vegan
+19551,7,large unpeeled shrimp,Vegan
+19652,0,nasturtium blossoms,Vegan
+19713,0,chicken leg,Omnivore
+19733,7,savoiardi cookies,Vegan
+19752,0,traditional pastry piecrust,Vegan
+19767,3,fennel powder,Vegan
+19787,4,banana instant pudding,Vegetarian
+19790,12,massamun curry paste,Vegan
+19800,4,condensed chicken gumbo soup,Omnivore
+19828,0,galanga root,Vegan
+19834,5,flageolet beans,Vegan
+19888,5,tarragon leaves,Vegan
+19889,6,low sodium salt,Vegan
+19909,1,diced tomatoes with balsamic vinegar basil and oil,Vegan
+19916,1,fat free banana cream pie flavored pudding mix,Vegetarian
+19948,1,frozen sliced strawberries in syrup,Vegan
+19948,3,cheesecake flavor instant pudding and pie filling,Vegetarian
+19966,1,quorn pieces,Vegan
+19996,1,wheat germ oil,Vegan
+20017,2,vegetarian beef substitute,Omnivore
+20029,8,scallion tops,Vegan
+20031,1,honey syrup,Vegetarian
+20095,5,best olive oil,Vegan
+20106,0,prepared graham cracker crusts,Vegan
+20124,4,apricot chutney,Vegan
+20145,9,summer savory,Vegan
+20164,7,romaine leaf,Vegan
+20170,0,cauliflower head,Vegan
+20182,2,baby dill pickles,Vegan
+20240,0,teddy grahams honey graham snacks,Vegetarian
+20266,0,erythritol,Vegan
+20269,3,instant flour,Vegan
+20279,4,ragu tomato sauce,Vegan
+20317,8,kashmiri chili powder,Vegan
+20317,9,amchoor powder,Vegan
+20338,8,cake tofu,Vegan
+20360,7,banana pulp,Vegan
+20381,1,fresh mozzarella ball,Vegan
+20399,4,imported white chocolate,Vegan
+20404,2,baby swiss cheese,Vegetarian
+20415,9,dried tomatoes,Vegan
+20427,0,lean boneless lamb,Omnivore
+20449,7,roasted sweet peppers,Vegan
+20458,6,prosciutto rind,Vegan
+20530,16,lasagna pasta,Vegan
+20536,8,nuoc nam,Vegan
+20545,14,walnut meat,Omnivore
+20581,2,fresh mozzarella balls,Vegan
+20637,0,light vanilla ice cream,Vegetarian
+20680,3,frozen english peas,Vegan
+20684,5,date filling for hamentaschen,Vegan
+20697,2,rose essence,Vegan
+20714,9,raspberry pie filling,Vegan
+20715,1,pheasant,Vegan
+20756,12,turkish baharat spice mix,Vegan
+20791,1,danish blue cheese,Vegetarian
+20813,4,boned lamb,Omnivore
+20813,10,black ground cumin,Vegan
+20822,2,heads of cabbage,Vegan
+20887,0,marshmallow peeps,Vegetarian
+20905,5,boneless center cut pork loin roast,Omnivore
+20925,1,kraft processed cheese slices,Vegetarian
+20935,2,vegetarian instant vanilla pudding mix,Vegetarian
+20972,3,sour dill pickle,Vegan
+21039,4,loquats,Vegan
+21091,0,mahi mahi fillet,Vegan
+21105,14,bread and butter pickle juice,Vegetarian
+21106,1,almond granola,Vegan
+21194,5,prickly pear,Vegan
+21197,7,instant dry milk powder,Vegetarian
+21198,3,spiral cut ham,Omnivore
+21219,0,boneless beef top sirloin steaks,Omnivore
+21222,9,mixed dried berries,Vegan
+21225,2,ww vegetable with alfredo sauce,Vegan
+21253,7,medium sherry,Vegan
+21255,1,hunts tomato paste,Vegan
+21257,2,tofutti sour supreme natural flavor,Vegan
+21309,7,dolcelatte,Vegan
+21347,7,linseed sunflower seeds and almond mix,Vegan
+21439,1,achiote oil,Vegan
+21528,0,mangoes in syrup,Vegan
+21530,3,fresh cayenne peppers,Vegan
+21592,0,boneless ham,Omnivore
+21595,12,chive blossoms,Vegan
+21604,4,serrano chili pepper,Vegan
+21615,0,enriched flour,Vegan
+21634,4,borage,Vegan
+21640,0,boneless beef short ribs,Omnivore
+21650,8,seedless oranges,Vegan
+21685,4,prepared instant mashed potatoes,Vegan
+21782,6,baby eggplant,Vegan
+21798,2,whole toasted hazelnuts,Vegan
+21858,1,recaito,Vegan
+21871,1,duck legs,Omnivore
+21871,11,fresh fettuccine,Vegan
+21888,3,arbol chile,Vegan
+21897,6,fatty bacon,Omnivore
+21897,9,ginkgo nuts,Vegan
+21972,7,fresh tarragon sprigs,Vegan
+21972,10,fresh tarragon sprig,Vegan
+21982,1,sage sausage,Omnivore
+22006,3,fresh coffee,Vegan
+22055,0,homemade pie crust,Vegan
+22065,8,fresh sauerkraut,Vegan
+22106,12,crawfish tail meat,Omnivore
+22133,8,dried whole thyme,Vegan
+22138,6,peach yogurt,Vegetarian
+22159,1,garlic sausage,Omnivore
+22264,0,turkey breast tenderloin,Omnivore
+22284,0,fillet of sole,Vegan
+22332,0,low fat graham cracker crumbs,Vegan
+22343,6,pisco,Vegan
+22348,2,vegetable suet,Vegan
+22378,12,sweet and spicy barbecue sauce,Vegan
+22390,7,nicoise olive,Vegan
+22394,4,tomatoes with basil,Vegan
+22433,2,blue cheese vinaigrette,Vegetarian
+22458,2,very strong coffee,Vegan
+22482,2,parmesan asiago and romano cheese blend,Vegetarian
+22515,7,dried chervil,Vegan
+22541,6,fructose,Vegan
+22552,2,banana cream pudding and pie filling mix,Vegetarian
+22645,0,multi colored shell macaroni,Vegan
+22645,7,canned spinach,Vegan
+22727,4,ancho chili,Vegan
+22769,0,concord grapes,Vegan
+22784,2,anisette,Vegan
+22813,8,whole grain rice,Vegan
+22840,0,sweet apple cider,Vegan
+22863,1,black mission figs,Vegan
+22899,7,tartar sauce,Vegan
+22900,0,spaetzle noodles,Vegan
+22923,2,orange sweet potatoes,Vegan
+22965,12,red snapper fillet,Vegan
+23007,2,green chard leaves,Vegan
+23007,6,soy miso,Vegan
+23014,7,tart green apple,Vegan
+23026,4,pepper vinegar,Vegan
+23041,3,yellow hominy,Vegan
+23048,3,lychees,Vegan
+23059,9,light demerara sugar,Vegan
+23068,6,boneless pork top loin,Omnivore
+23089,10,nanami togarashi,Vegan
+23161,0,skinless chicken piece,Omnivore
+23188,3,nonfat cottage cheese,Vegetarian
+23211,4,japanese roasted nori,Vegan
+23223,0,boneless lamb,Omnivore
+23233,0,dark amber maple syrup,Vegan
+23242,1,red pepper jelly,Vegan
+23253,1,guava paste,Vegan
+23279,5,featherweight baking powder,Vegan
+23291,0,rajma,Vegan
+23305,2,dessert tofu,Vegan
+23415,4,instant decaffeinated coffee,Vegan
+23467,14,braeburn apple,Vegan
+23499,2,iraqi curry powder,Vegan
+23730,2,chocolate cool whip,Vegetarian
+23761,0,instant tea powder,Vegan
+23774,4,kewra essence,Vegan
+23864,3,tofu crumbles,Vegan
+23914,4,leaf oregano,Vegan
+23936,0,anjou pear,Vegan
+23950,0,shoe peg corn,Vegan
+23953,7,coors beer,Vegan
+23989,0,yellowfin tuna steak,Vegan
+24042,7,brazil nuts,Vegan
+24111,3,pecan nuts,Vegan
+24119,10,soymilk powder,Vegan
+24192,1,garlic flavored vinegar,Vegan
+24250,2,hot mustard,Vegan
+24331,2,boneless atlantic salmon fillet,Omnivore
+24336,6,red sweet pepper,Vegan
+24385,1,strawberry sauce,Vegan
+24388,0,partridge breasts,Vegan
+24430,9,chinese barbecue pork,Omnivore
+24464,2,ground ancho chili pepper,Vegan
+24552,0,sweet potatoes in syrup,Vegan
+24576,0,berry blue gelatin mix,Vegan
+24667,4,red shallots,Vegan
+24668,6,diced tomatoes in tomato puree,Vegan
+24686,0,morels,Vegan
+24696,2,mild cheese,Vegetarian
+24699,1,firm margarine,Vegan
+24760,4,fresh parsley sprigs,Vegan
+24765,3,raspberry sauce,Vegan
+24767,2,dulce de leche ice cream,Vegetarian
+24783,5,black soy sauce,Vegan
+24787,0,budweiser beer,Vegan
+24796,0,dark chicken meat,Omnivore
+24829,0,frozen artichoke heart,Vegan
+24845,2,dried oranges,Vegan
+24869,12,half cream,Vegetarian
+24908,3,red cherries,Vegan
+24908,4,green cherries,Vegan
+24928,4,elderberries,Vegan
+24951,0,dried fennel seed,Vegan
+24955,4,celery hearts,Vegan
+24956,0,boneless duck breast halves,Omnivore
+25013,3,morningstar farms meal starters chicken strips,Omnivore
+25024,2,blackberry brandy,Vegan
+25081,4,wild ducks,Vegan
+25092,1,dried ancho pepper,Vegan
+25101,1,frozen crab,Vegan
+25142,1,how to cook spaghetti squash,Vegan
+25189,4,dried kaffir lime leaves,Vegan
+25216,10,winter savory,Vegan
+25315,0,partridges,Vegan
+25325,1,california walnut,Vegan
+25325,6,california walnuts,Vegan
+25333,9,black soybeans,Vegan
+25370,0,goose,Omnivore
+25501,7,prepared lemon pudding,Vegetarian
+25507,4,fresh portabella mushroom,Vegan
+25586,3,compressed yeast cake,Vegan
+25611,3,montasio cheese,Vegetarian
+25642,0,zinfandel,Vegan
+25653,10,knorr chicken bouillon,Omnivore
+25683,16,granola bar,Vegan
+25774,4,fresh herbs of choice,Vegan
+25778,6,reduced sodium ketchup,Vegan
+25780,2,celery tops,Vegan
+25803,0,red plums,Vegan
+25836,2,lettuce head,Vegan
+25914,0,apple rings,Vegan
+25922,2,dried baby lima beans,Vegan
+25923,2,spiced panko bread crumbs,Vegan
+25948,0,tiny pasta,Vegan
+25952,2,whole leaf oregano,Vegan
+25952,3,blended red chili sauce,Vegan
+25996,0,tangerine juice concentrate,Vegan
+26061,2,small clams,Vegan
+26071,2,gherkin pickle,Vegan
+26122,2,milnot condensed milk,Vegetarian
+26187,1,mocha ice cream,Vegetarian
+26193,3,butter pecan ice cream,Vegetarian
+26216,11,basic pastry crust,Vegan
+26216,12,bacon pastry crust,Omnivore
+26226,4,white mustard seeds,Vegan
+26245,7,mixed berry,Vegan
+26280,2,egg white substitute,Vegetarian
+26285,0,green cabbage heads,Vegan
+26325,4,fat free cheese,Vegetarian
+26327,6,sorghum molasses,Vegan
+26327,9,dried shredded coconut,Vegan
+26365,1,rindless smoked streaky bacon,Omnivore
+26366,0,peach vodka,Vegan
+26461,3,whole grain wheat flour,Vegan
+26467,0,chocolate crumb crust,Vegan
+26542,0,pudding rice,Vegetarian
+26579,1,spinach rotini pasta,Vegan
+26584,6,tamarind extract,Vegan
+26638,9,raw spinach leaves,Vegan
+26716,0,trout fillet,Vegan
+26724,1,frozen potato pierogi,Vegan
+26734,8,white vanilla,Vegan
+26774,5,frozen tiny peas,Vegan
+26778,0,mirlitons,Vegan
+26808,0,beef round tip steaks,Omnivore
+26810,3,dried cayenne pepper,Vegan
+26823,0,whole wheat baguette,Vegan
+26849,0,jalapeno cornbread waffles,Vegan
+26849,1,cincinnati chili,Vegan
+26849,2,chile verdadero,Vegan
+26875,5,pickled eggs,Vegetarian
+26875,11,wheat beer,Vegan
+26942,0,peppermint,Vegan
+26974,3,clementine,Vegan
+26983,0,key limes,Vegan
+27004,0,au gratin potatoes,Vegan
+27076,4,double gloucester cheese,Vegetarian
+27105,9,argan oil,Vegan
+27143,1,frozen succotash,Vegan
+27222,3,fresh sweet basil leaves,Vegan
+27242,3,chinese chili sauce,Vegan
+27242,8,chinese eggplants,Vegan
+27304,0,artichoke bottoms,Vegan
+27319,1,red italian tomatoes,Vegan
+27322,2,dried cayenne peppers,Vegan
+27353,2,tamarind soup mix,Vegan
+27384,4,ground galangal,Vegan
+27464,5,wattleseed,Vegan
+27490,3,processed swiss cheese,Vegetarian
+27507,7,sweet dessert wine,Vegan
+27557,6,chili powder,Vegan
+27746,3,mint syrup,Vegan
+27755,4,nonfat whole wheat tortillas,Vegan
+27763,2,dill pickle cubes,Vegan
+27784,0,chicken breast half,Omnivore
+27832,4,dark raisins,Vegan
+27872,0,stew beef chunk,Omnivore
+28000,3,whole green onion,Vegan
+28084,8,frozen baby lima beans,Vegan
+28201,7,green sweet peppers,Vegan
+28301,3,white crab meat,Omnivore
+28318,0,beef drippings,Omnivore
+28319,0,alligator meat,Omnivore
+28324,3,whole green onions,Vegan
+28372,0,chestnut meats,Vegan
+28413,5,pomegranate syrup,Vegan
+28417,7,quorn tenders,Vegan
+28430,1,ragu chunky tomato sauce with extra tomatoes onions and,Vegan
+28476,0,boneless beef brisket,Omnivore
+28486,0,beef silverside,Omnivore
+28561,1,caper berries,Vegan
+28583,0,canned sweet potatoes,Vegan
+28656,10,sorrel,Vegan
+28656,11,eel,Vegan
+28792,0,boneless beef chuck shoulder pot roast,Omnivore
+28801,5,taco seasoning mix,Vegan
+28827,1,cheddar cheese cubes,Vegetarian
+28885,0,arbol chiles,Vegan
+28900,9,chocolate chip ice cream,Vegetarian
+28941,3,salsify,Vegan
+29011,1,pudding mix,Vegetarian
+29050,1,cooking onions,Vegan
+29160,5,vegetarian baked beans,Vegan
+29267,7,pineapple sage,Vegan
+29284,1,freezer pizza sauce,Vegan
+29295,10,cinnamon bark,Vegan
+29303,5,hickory liquid smoke,Vegan
+29327,2,meyer lemon zest,Vegan
+29370,0,pawpaw,Vegan
+29403,0,praline ice cream,Vegetarian
+29405,2,angelica,Vegan
+29413,0,dried pink beans,Vegan
+29461,3,lemon flavored ice tea mix,Vegan
+29500,5,extra lean beef,Omnivore
+29585,5,dry oregano leaves,Vegan
+29609,0,baby asparagus,Vegan
+29688,6,low carb barbecue sauce,Vegan
+29699,0,swans down cake flour,Vegan
+29745,1,green olives in brine,Vegan
+29800,0,litchis,Vegan
+29801,0,pineapple rum,Vegan
+29870,0,lean lamb stew meat,Omnivore
+29878,4,instant garlic,Vegan
+30056,0,pork sausage links,Omnivore
+30069,3,red maraschino cherry,Vegan
+30090,11,broiler chickens,Omnivore
+30110,0,dry white bean,Vegan
+30116,9,salted peanuts without skins,Vegan
+30189,10,processed cheese spread,Vegetarian
+30227,1,chili bean,Vegan
+30244,13,mini bacon meatballs,Omnivore
+30263,4,queso anejo,Vegan
+30335,4,soy powder,Vegan
+30431,1,light miso,Vegan
+30644,9,greek feta cheese,Vegetarian
+30689,2,chili vinegar,Vegan
+30805,7,leaf thyme,Vegan
+30850,2,tart cooking apples,Vegan
+30860,1,dried lychees,Vegan
+30869,2,fresh swiss chard,Vegan
+30874,3,cucumber juice,Vegan
+30894,1,heather honey,Vegetarian
+30927,1,light fruit vinegar,Vegan
+30976,0,hyssop,Vegan
+30984,2,beef kielbasa,Omnivore
+30992,10,canned baby clams,Vegan
+31010,2,italian sweet vermouth,Vegan
+31119,6,canned anchovy fillet,Vegan
+31228,9,vegan egg replacer powder,Vegetarian
+31228,15,dried yeast granules,Vegan
+31229,13,truffles,Vegan
+31232,4,mini graham cracker tart crusts,Vegan
+31266,0,brown flour,Vegan
+31272,2,sourdough baguettes,Vegan
+31331,0,muscadine grapes,Vegan
+31452,1,pea tendrils,Vegan
+31519,3,celery powder,Vegan
+31553,0,morton tender quick salt,Vegan
+31597,3,pink grapefruit slices,Vegan
+31680,0,candied papaya,Vegan
+31692,8,prune butter,Vegetarian
+31775,3,canned broth,Vegan
+31828,3,canned shrimp,Vegan
+31844,0,soho lychee liqueur,Vegan
+31871,7,tomatoes with herbs,Vegan
+31893,4,imitation vanilla,Vegan
+31912,0,absolut kurant vodka,Vegan
+32000,8,dried epazote,Vegan
+32025,2,havarti with dill,Vegan
+32029,1,boneless pork cutlet,Omnivore
+32044,5,starkist lemon and cracked pepper tuna fillets,Vegan
+32207,4,canned plum tomatoes,Vegan
+32231,3,chipotle paste,Vegan
+32235,6,haldi powder,Vegan
+32247,0,vegetarian bologna,Vegan
+32266,5,raspberry sauce,Vegan
+32282,9,golden sultana raisins,Vegan
+32337,2,canned artichoke bottoms in water,Vegan
+32340,6,frozen crabmeat,Vegan
+32349,0,boneless bottom round roast,Vegan
+32391,0,plums in heavy syrup,Vegan
+32555,1,black lentil paste,Vegan
+32586,2,japanese sake,Vegan
+32659,3,carnaroli rice,Vegan
+32662,4,fresh grape leaves,Vegan
+32696,0,livestock corn oats and barley feed mix,Vegan
+32798,9,radish sprouts,Vegan
+32869,0,fine dutch rusk crumbs,Vegan
+32952,3,biscuit mix,Vegan
+33005,0,mixed cheeses,Vegan
+33015,11,yellow apples,Vegan
+33022,0,hash brown patties,Vegan
+33082,8,bbq red beans,Vegan
+33106,0,copycat shake shack chocolate frozen custard,Vegan
+33169,10,light processed cheese,Vegetarian
+33227,0,peach gelatin,Vegan
+33245,2,nonfat dry milk solid,Vegetarian
+33312,9,raw chicken,Omnivore
+33329,4,lime slices,Vegan
+33334,3,pickled cucumber,Vegan
+33389,7,cajun portobello sandwich with avocado and remoulade,Vegan
+33402,0,tangerine zest,Vegan
+33409,0,yellowfin tuna steaks,Vegan
+33438,0,chicken feet,Omnivore
+33473,1,iceberg lettuce leaves,Vegan
+33475,0,stewed plums,Vegan
+33509,6,pignoli nuts,Vegan
+33580,4,ocean spray whole cranberry sauce,Vegan
+33589,8,dark chili powder,Vegan
+33650,3,tandoori masala,Vegan
+33780,0,black walnuts,Vegan
+33827,0,raspberry topping,Vegan
+33876,5,dark ale,Vegan
+33897,3,lychee,Vegan
+33897,4,pommelo,Vegan
+33897,7,guava,Vegan
+33937,11,manioc flour,Vegan
+33959,0,frozen miniature phyllo tart shells,Vegan
+34053,1,red pesto sauce,Vegan
+34109,6,melon ball,Vegan
+34189,5,truffle,Vegan
+34297,0,garlic heads,Vegan
+34352,0,absolut mandarin vodka,Vegan
+34429,3,roasted garlic and sweet onion jam,Vegan
+34441,10,sambal chili paste,Vegan
+34455,2,jumbo egg,Vegetarian
+34499,1,preserved turnip,Vegan
+34517,10,baharat,Vegan
+34586,9,jalapeno havarti cheese,Vegetarian
+34604,4,carnation instant milk,Vegetarian
+34654,5,lemon pepper seasoning mix,Vegan
+34655,6,yellowfin tuna fillet,Vegan
+34676,13,fresh asian basil,Vegan
+34764,0,lemon marmalade,Vegan
+34783,3,black plum,Vegan
+34787,1,canned corn kernels,Vegan
+34814,0,strawberry puree,Vegan
+34841,1,pineapple in juice,Vegan
+34884,2,raw beet,Vegan
+34956,0,graham cracker square,Vegan
+34985,3,maraschino juice,Vegan
+34990,8,marinated grilled skirt steak,Vegan
+35015,4,cantal cheese,Vegetarian
+35091,0,elderflower heads,Vegan
+35104,5,vegan beef bouillon powder,Omnivore
+35390,2,pork broth,Omnivore
+35427,8,tomato base chili sauce,Vegan
+35439,5,diced tomatoes with green pepper and onion,Vegan
+35485,6,brown button mushroom,Vegan
+35536,8,garlic and onion tofu,Vegan
+35557,1,jamon serrano,Vegan
+35640,9,carambolas,Vegan
+35716,4,quorn sausage,Omnivore
+35787,8,mizuna,Vegan
+35823,1,chayotes,Vegan
+35824,2,saga blue cheese,Vegetarian
+35857,7,dried raspberries,Vegan
+35960,3,fennel heads,Vegan
+35990,2,pecan honey butter,Vegetarian
+36037,1,comte cheese,Vegetarian
+36078,4,swiss provolone cheese mix,Vegetarian
+36136,5,black grapes,Vegan
+36174,3,tart baking apples,Vegan
+36268,7,green chili powder,Vegan
+36273,22,baby green peas,Vegan
+36275,0,roasted ancho chile,Vegan
+36317,1,sugar free instant coconut pudding mix,Vegetarian
+36428,4,calf liver,Vegan
+36634,6,brown cardamom pod,Vegan
+36652,24,corn chowder,Vegan
+36770,0,boneless pork loin chop,Omnivore
+36784,8,vincotto,Vegan
+36847,8,yeast free wholemeal bread,Vegan
+36988,4,apricot gelatin,Vegan
+37062,3,white worcestershire sauce,Vegan
+37091,9,thin soy sauce,Vegan
+37104,4,dry parsley flakes,Vegan
+37250,4,purple seedless grapes,Vegan
+37282,19,duck confit,Omnivore
+37316,6,sweetened condensed milk substitute for diabetics,Vegetarian
+37365,2,corn and black bean salsa,Vegan
+37423,11,chestnut puree,Vegan
+37425,0,quorn mince,Vegan
+37542,0,shortbread crust,Vegan
+37572,6,diced tomatoes with onion garlic and basil,Vegan
+37735,2,frozen tofu,Vegan
+37769,4,angel hair pasta with herbs mix,Vegan
+37785,0,vegetarian meatballs,Vegan
+37892,5,napa cabbage leaves,Vegan
+37902,2,english walnuts,Vegan
+37998,4,five spice mix,Vegan
+38077,0,german chocolate cake mix with pudding,Vegetarian
+38112,0,pasta dough,Vegan
+38124,8,pickled sweet peppers,Vegan
+38126,0,fruit flavored gelatin,Vegan
+38136,1,lamb steak,Omnivore
+38221,3,vegetarian stilton cheese,Vegetarian
+38262,6,vegetarian bouillon powder,Vegan
+38369,0,boneless center cut pork chop,Omnivore
+38370,11,red currants,Vegan
+38461,5,hard apple cider,Vegan
+38491,8,lemon mint,Vegan
+38493,6,mexican processed cheese sauce,Vegetarian
+38610,2,cajun spice rub mix recipe,Vegan
+38628,2,almond syrup for flavored coffee,Vegan
+38641,2,chai tea mix,Vegan
+38653,4,chicken drumstick,Omnivore
+38711,2,chile salsa,Vegan
+38735,1,lovage,Vegan
+38780,10,roasted garlic alfredo sauce,Vegan
+38823,19,red bell pepper flakes,Vegan
+38910,6,light jarlsberg cheese,Vegetarian
+38947,4,lemon peel curls,Vegan
+38961,8,roasted cumin,Vegan
+38990,0,quahogs,Vegan
+38995,7,boneless lean pork,Omnivore
+39029,6,cake flour substitute,Vegan
+39121,0,young roasting chickens,Omnivore
+39206,0,whole wheat english muffin,Vegan
+39244,0,boneless skinless cod,Vegan
+39260,0,bud light beer,Vegan
+39332,0,annatto seeds,Vegan
+39417,0,masa dough,Vegan
+39503,7,gluten free buttermilk biscuits,Vegan
+39619,1,black currant jam,Vegan
+39622,0,cod steaks,Vegan
+39683,1,graham cracker crust,Vegan
+39737,0,yellow corn grits,Vegan
+39829,7,ditali pasta,Vegan
+39847,7,brown and wild rice mix,Vegan
+39882,0,groundnuts,Vegan
+39902,1,thick soy sauce,Vegan
+39943,13,copycat cinnabon rolls with icing,Vegan
+39968,10,amaretti cookie crumbs,Vegan
+40065,4,vegetarian marshmallows,Vegan
+40083,4,cranberry jelly,Vegan
+40126,0,garlic and cheese flavored croutons,Vegetarian
+40169,1,seedless black grapes,Vegan
+40196,3,loin lamb,Omnivore
+40215,5,boneless boston pork roast,Omnivore
+40215,7,homemade pizza sauce,Vegan
+40233,2,coriander sprigs,Vegan
+40263,5,italian tomato paste,Vegan
+40378,0,lean beef round,Omnivore
+40451,3,robiola cheese,Vegetarian
+40512,0,frozen lobster tails,Vegan
+40521,9,candied figs,Vegan
+40597,5,giant italian ladyfingers,Vegan
+40608,10,quince paste,Vegan
+40615,2,tomato sauce with onion,Vegan
+40624,5,faux maple sugar,Vegan
+40727,6,raw mushrooms,Vegan
+40794,2,mild soy sauce,Vegan
+40828,0,ham shank,Omnivore
+40877,3,chicken neck,Omnivore
+40882,2,berbere,Vegan
+40950,1,fresh red currant,Vegan
+40992,2,wensleydale cheese,Vegetarian
+41043,4,assorted herbs,Vegan
+41166,7,plain tomato juice,Vegan
+41247,3,grapefruit peel,Vegan
+41432,3,pimiento strip,Vegan
+41477,5,iodized salt,Vegan
+41564,0,grouper,Vegan
+41590,0,rock melons,Vegan
+41691,0,lamb liver,Omnivore
+41824,4,lite silken extra firm tofu,Vegan
+41878,0,lamb rack,Omnivore
+41948,6,fish bouillon cube,Omnivore
+41978,1,chipotle pepper puree,Vegan
+41982,0,perfect cornbread,Vegan
+42027,5,ruby grapefruits,Vegan
+42112,2,vegetarian pudding,Vegetarian
+42125,3,pasta roni,Vegan
+42129,6,boneless lamb chops,Omnivore
+42143,0,lean round steak,Vegan
+42241,7,spicy tomato salsa,Vegan
+42313,0,joint of beef,Omnivore
+42325,0,starkist sweet and spicy tuna,Vegan
+42353,3,tart cooking apple,Vegan
+42405,3,lowfat margarine,Vegan
+42434,0,snail butter,Vegetarian
+42489,2,refried beans,Vegan
+42563,13,mirliton,Vegan
+42566,9,whole wheat pasta shells,Vegan
+42695,5,flavored sugar or splenda,Vegan
+42711,9,whole grain english muffin,Vegan
+42887,0,mango rum,Vegan
+42946,4,small marshmallow,Vegetarian
+42960,3,chocolate fudge instant pudding mix,Vegetarian
+42961,7,shrimp bouillon cube,Vegan
+42983,4,black walnut extract,Vegan
+42986,1,pecan meal,Vegan
+43021,1,mango peach salsa,Vegan
+43059,3,australian sweet apple chutney,Vegan
+43059,4,dried fruit chutney,Vegan
+43065,0,salted salmon,Omnivore
+43140,3,ras el hanout spice blend,Vegan
+43177,0,fresh large mushrooms,Vegan
+43219,10,fresh water,Vegan
+43234,1,nutrasweet,Vegan
+43273,0,prune puree,Vegan
+43315,11,tempeh bacon,Omnivore
+43315,12,smoky tempeh bacon,Omnivore
+43352,11,boneless duck breasts,Omnivore
+43425,0,dried mission figs,Vegan
+43448,4,pub mustard,Vegan
+43480,6,pureed chipotle chiles,Vegan
+43517,10,basic cooked wheat berries,Vegan
+43524,0,welsh rarebit,Vegan
+43540,5,florida grapefruit juice,Vegan
+43599,0,irish potato,Vegan
+43635,11,bel paese cheese,Vegetarian
+43678,1,tahini sesame butter,Vegetarian
+43762,1,agave glazed bacon,Omnivore
+43785,1,basic cranberry sauce,Vegan
+43871,1,masago smelt roe,Vegan
+44056,0,parmesan and mozzarella pasta sauce,Vegan
+44081,10,vegan powdered sugar,Vegan
+44110,12,vegan pepperoni,Vegan
+44123,4,harusame noodles,Vegan
+44145,0,mugwort,Vegan
+44158,13,frozen baby lima bean,Vegan
+44165,2,tandoori spice mix,Vegan
+44278,2,tofu pockets,Vegan
+44282,0,unsalted pistachio nuts,Vegan
+44297,0,winesap apples,Vegan
+44462,4,yellow cherry tomato,Vegan
+44514,0,rolled oatmeal,Vegan
+44515,0,miniature graham cracker pie crusts,Vegan
+44545,6,valencia oranges,Vegan
+44564,16,plum wine vinegar,Vegan
+44590,7,small macaroni pasta,Vegan
+44808,0,fat pork,Omnivore
+44823,0,chickpea sprouts,Vegan
+44830,0,lamb leg chops,Omnivore
+44857,0,crepes for two,Vegan
+45018,4,cabrales cheese,Vegetarian
+45066,4,dried calimyrna figs,Vegan
+45117,1,vegetarian chicken flavored broth mix,Omnivore
+45117,2,vegetarian beef broth mix,Omnivore
+45160,11,lamb gravy,Omnivore
+45204,6,jumbo egg yolks,Vegetarian
+45263,0,low joule gelatin,Vegan
+45270,7,canned sauerkraut,Vegan
+45326,1,mucho gusto taco seasoning mix,Vegan
+45352,0,boneless skinned chicken breast,Omnivore
+45413,5,melted leeks,Vegan
+45463,1,red raspberry vinegar,Vegan
+45487,10,jeera seeds,Vegan
+45513,2,bavarian beer vinegar,Vegan
+45591,12,sage sprig,Vegan
+45625,2,processed cheese food,Vegetarian
+45709,4,dried lemon grass,Vegan
+45739,0,wild strawberry gelatin,Vegan
+45757,1,vanilla custard powder,Vegan
+45772,7,crenshaw melon,Vegan
+45797,0,cinnamon bagel chips,Vegan
+45818,0,marshmallow whip,Vegetarian
+45820,0,dry fettuccine,Vegan
+45860,1,baking apple,Vegan
+45979,13,annatto oil,Vegan
+45994,1,cilantro salsa,Vegan
+46043,4,smoked red bell peppers,Vegan
+46081,1,gelatin sheets,Vegan
+46095,10,framboise liqueur,Vegan
+46095,11,black currant leaves,Vegan
+46117,5,garlic scapes,Vegan
+46226,2,vegetarian mayonnaise,Vegetarian
+46294,7,boneless lamb loin,Omnivore
+46384,0,boneless beef top round steaks,Omnivore
+46453,0,irish mist liqueur,Vegan
+46711,3,roasted cumin seeds,Vegan
+46807,12,lettuce cup,Vegan
+46807,18,cellophane noodle,Vegan
+46916,1,whole wheat spiral pasta,Vegan
+46951,7,anejo cheese,Vegetarian
+46964,1,liquid shortening,Vegan
+47095,0,peach ice cream,Vegetarian
+47134,2,marshmallow bits,Vegetarian
+47244,10,sour apple,Vegan
+47394,10,baby tomatoes,Vegan
+47481,12,quince jelly,Vegan
+47562,0,salted herrings,Vegan
+47584,15,frozen potato pierogies,Vegan
+47830,3,watermelon balls,Vegan
+47843,5,salted cashew halves,Vegan
+47866,0,lotus seeds,Vegan
+47900,1,dried whole dill weed,Vegan
+47954,7,delmonte stewed tomatoes,Vegan
+48045,6,wild fennel,Vegan
+48054,3,dried chile pequins,Vegan
+48087,0,mini sweet peppers,Vegan
+48177,3,dry hot mustard,Vegan
+48201,0,yellow plums,Vegan
+48311,2,sweet vanilla soymilk,Vegan
+48314,2,pumpkin flesh,Vegan
+48326,16,cheese pumpkin,Vegetarian
+48445,6,pouring custard,Vegan
+48504,1,red gelatin,Vegan
+48507,4,miniature bagels,Vegan
+48631,1,white sauce mix,Vegan
+48644,0,basic whole wheat french crepes,Vegan
+48720,7,liquid sugar substitute,Vegan
+48779,1,blueberry gelatin,Vegan
+48827,4,diced tomatoes with mushroom and garlic,Vegan
+48865,1,raw cashew nuts,Vegan
+48918,0,raw green cabbage,Vegan
+49032,2,ginger cubes,Vegan
+49101,0,barley groats,Vegan
+49152,6,blueberry vinegar,Vegan
+49163,4,dried mediterranean oregano,Vegan
+49240,5,coleslaw,Vegan
+49313,0,kipfler potatoes,Vegan
+49487,5,raw cauliflower,Vegan
+49560,6,grand marnier custard sauce,Vegan
+49560,7,grand marnier custard sauce,Vegan
+49678,6,mixed currants,Vegan
+49780,0,salmon tails,Omnivore
+49881,5,honey muffins,Vegetarian
+49889,1,basil pesto,Vegan
+50054,0,chinese barbecued duck,Omnivore
+50084,0,bottlegourd,Vegan
+50379,11,pomegranate paste,Vegan
+50499,5,tahini dressing,Vegan
+50514,5,pignoli nut,Vegan
+50524,9,canned whole cranberry sauce,Vegan
+50638,10,low fat poppy seed dressing,Vegan
+50704,9,queso sauce,Vegan
+50982,2,red paprika,Vegan
+51004,14,red swiss chard,Vegan
+51112,1,vegetarian chicken substitute,Omnivore
+51135,3,cento italian tomatoes,Vegan
+51285,0,tomato paste with basil and garlic,Vegan
+51302,7,vindaloo curry paste,Vegan
+51360,6,tortilla flour,Vegan
+51524,1,coconut cream pudding mix,Vegetarian
+51656,5,umeboshi,Vegan
+51750,4,sofrito,Vegan
+51770,0,glutinous rice,Vegan
+51771,1,bean thread sheets,Vegan
+51774,5,light irish cream liqueur,Vegetarian
+51828,8,comice pear,Vegan
+52061,2,campden tablet,Vegan
+52076,0,boneless skinned chicken breasts,Omnivore
+52081,2,pickled herring,Vegan
+52090,6,hot breakfast sausage patty,Omnivore
+52252,9,monosodium glutamate,Vegan
+52286,3,sugar free pistachio pudding mix,Vegetarian
+52444,1,canada dry ginger ale,Vegan
+52519,8,nasturtium petals,Vegan
+52526,0,red chile honey,Vegetarian
+52840,0,chicken gizzards,Omnivore
+52868,4,lemon peel strip,Vegan
+53099,3,candied mint leaves,Vegan
+53229,8,paneer cheese,Vegetarian
+53337,10,vegetarian beef strips,Omnivore
+53343,5,burata cheese,Vegetarian
+53345,1,pear cider,Vegan
+53355,14,gum arabic,Vegan
+53433,2,lychees in heavy syrup,Vegan
+53550,11,blender hollandaise sauce,Vegan
+53822,2,garlic sprouts,Vegan
+54047,0,baby chicken,Omnivore
+54118,1,thai sweet chili sauce,Vegan
+54144,1,old mill oats,Vegan
+54185,1,sugar rolled dates,Vegan
+54187,4,sweet mustard,Vegan
+54212,2,sourdough bread,Vegan
+54232,0,most incredible no fail pie crust,Vegan
+54282,1,mandarin juice,Vegan
+54313,1,caperberries,Vegan
+54313,3,black olive pesto,Vegan
+54413,0,duck giblets,Omnivore
+54510,2,la chinata bittersweet paprika,Vegan
+54510,3,romulo olive oil,Vegan
+54510,5,redondo iglesias jamsn serrano,Vegan
+54574,11,small whole wheat pasta shells,Vegan
+54616,6,purslane,Vegan
+54687,10,unsalted spanish peanuts,Vegan
+55143,0,prepared vanilla pudding,Vegetarian
+55155,4,vegetarian sausage links,Omnivore
+55221,4,jonathan apples,Vegan
+55440,7,vegetarian blue cheese,Vegetarian
+55493,2,shiro miso,Vegan
+55620,4,dried leaf basil,Vegan
+55645,8,soya margarine,Vegan
+55694,0,tarragon white wine vinegar,Vegan
+55855,13,chimayo chili powder,Vegan
+55865,2,fresh pork hocks,Omnivore
+55869,0,alfredo noodles mix,Vegan
+56011,0,lamb ribs,Omnivore
+56078,0,spring chicken,Omnivore
+56140,2,vegan soy sauce,Vegan
+56168,0,fresh crabs,Vegan
+56239,3,mandarin segment,Vegan
+56377,1,chicken veggie toss,Omnivore
+56432,11,chermoula dressing,Vegan
+56486,2,dark sweet red cherries,Vegan
+56503,0,tapioca pudding,Vegetarian
+56558,1,quick curing salt,Vegan
+56563,5,ground wattleseed,Vegan
+56746,1,masa harina mix,Vegan
+56859,4,maple vinaigrette,Vegan
+56884,7,homemade crystallised rose petals,Vegan
+56897,5,yellow pear tomato,Vegan
+56942,4,diced tomatoes with garlic and olive oil,Vegan
+56957,2,nonfat parmesan cheese,Vegetarian
+57127,12,barley miso,Vegan
+57265,12,cooked duck,Omnivore
+57268,2,apricot whip,Vegetarian
+57277,0,white chocolate squares,Vegan
+57299,3,blachan,Vegan
+57361,0,clam chowder,Vegan
+57374,9,napa cabbage leaf,Vegan
+57409,0,peppered pork loin,Omnivore
+57426,3,dried shallots,Vegan
+57512,1,grilled greek chicken breasts,Omnivore
+57512,6,greek tzatziki,Vegan
+57667,3,light cream cheese with chives and onions,Vegetarian
+57672,0,alphonso mangoes,Vegan
+57748,6,instant butter pecan pudding mix,Vegetarian
+57786,12,bouquet garni spice,Vegan
+57810,8,candied tangerine zest,Vegan
+57983,2,plum wine,Vegan
+57985,6,salad mustard,Vegan
+58036,0,full cut round steaks,Vegan
+58295,0,chocolate graham cracker squares,Vegan
+58304,5,minced  fresh garlic cloves,Vegan
+58327,4,ajwain seed,Vegan
+58353,0,black cod steaks,Vegan
+58360,2,pork bouillon cube,Omnivore
+58447,0,boneless sirloin tip roast,Vegan
+58664,2,satsuma oranges,Vegan
+58685,0,roast turkey meat,Omnivore
+58895,0,young tender corn,Vegan
+58921,3,kaffir lime juice,Vegan
+58997,3,arbol chili powder,Vegan
+59130,1,newfoundland dressing for turkey,Omnivore
+59168,2,smoked nutritional yeast,Vegan
+59215,4,seasoned rice vinegar with roasted garlic,Vegan
+59292,0,foie gras,Vegan
+59292,2,purple turnip,Vegan
+59406,2,classico alfredo with sun dried tomatoes,Vegan
+59423,0,tortellini cheese pasta,Vegetarian
+59469,1,ground annatto seed,Vegan
+59469,3,lamb rib,Omnivore
+59500,1,ham fat,Omnivore
+59652,7,dessert apples,Vegan
+59807,10,contadina tomato paste,Vegan
+60103,4,red dates,Vegan
+60161,1,hot mustard,Vegan
+60897,0,rabbit joints,Omnivore
+60922,0,peppermint ice cream,Vegetarian
+61197,0,blackberry gelatin,Vegan
+61316,0,herb pizza dough,Vegan
+61358,0,chez panisse almond cake,Vegan
+61358,1,lenotre pastry cream,Vegetarian
+61420,2,fish bouillon cubes,Omnivore
+61602,3,fresh sorrel,Vegan
+61654,9,basic chicken stock,Omnivore
+61847,7,grape skins,Vegan
+61851,10,arabian pita bread,Vegan
+61917,5,powdered jaggery,Vegan
+62113,0,tatsoi,Vegan
+62183,7,sweet and sour pickles,Vegan
+62202,5,homemade taco seasoning mix,Vegan
+62245,5,compressed yeast,Vegan
+62249,3,moist coconut,Vegan
+62384,0,black kale,Vegan
+62419,3,kudzu,Vegan
+62481,1,pista powder,Vegan
+62546,0,northern pike fillets,Vegan
+62623,3,vegetarian chicken broth,Omnivore
+62690,3,black cumin,Vegan
+62701,0,bean thread vermicelli,Vegan
+62973,0,red pinto beans,Vegan
+62993,1,turkey stuffing,Omnivore
+63006,0,teff flour,Vegan
+63018,0,alize red passion liqueur,Vegan
+63105,2,cracked bulgur wheat,Vegan
+63163,1,slim cucumber,Vegan
+63194,0,rusk,Vegan
+63386,2,tomato sauce mix,Vegan
+63488,4,stone ground corn grits,Vegan
+63576,6,lettuce cups,Vegan
+64175,5,instant coconut pudding mix,Vegetarian
+64298,1,perfect brown rice,Vegan
+64331,5,fryer chicken,Omnivore
+64342,2,prepared hot mustard,Vegan
+64384,0,basil olive oil,Vegan
+64490,0,raw red bell pepper,Vegan
+64617,1,french fried onions,Vegan
+64749,15,cilantro cream,Vegetarian
+64807,10,miniature pear tomato,Vegan
+64856,4,red baking apple,Vegan
+65093,10,almond macaroons,Vegan
+65128,0,sweet red apples,Vegan
+65276,11,swedes,Vegan
+65285,5,squid ring,Vegan
+65356,1,stolichnaya raspberry vodka,Vegan
+65483,3,wheat gluten flour,Vegan
+65554,9,cream flour,Vegetarian
+65585,4,lamb backstraps,Omnivore
+65602,0,herring fillet,Vegan
+65746,5,pickled capers,Vegan
+65798,11,easy buttercream icing,Vegan
+66152,0,breadfruit,Vegan
+66209,0,andouille chicken sausage,Omnivore
+66210,6,frozen broccoli with red peppers,Vegan
+66211,2,chocolate sweet potato frosting,Vegan
+66220,0,sweet rice,Vegan
+66339,0,unsweetened strawberries,Vegan
+66441,2,turkey steaks,Omnivore
+66512,1,sugar free fat free french vanilla pudding and pie filling mix,Vegetarian
+66533,0,dried morels,Vegan
+66671,6,bulb shallot,Vegan
+66699,1,chinese eggplant,Vegan
+66890,9,dry bow tie pasta,Vegan
+66944,4,sage derby cheese,Vegetarian
+66982,9,pimento strips,Vegan
+67106,0,yellowfin tuna fillets,Vegan
+67122,1,diced tomatoes with seasonings,Vegan
+67701,0,yellow potato,Vegan
+67711,0,angelica leaves,Vegan
+67717,5,vegan cheddar cheese,Vegetarian
+67721,5,white radish,Vegan
+67752,3,dried chestnuts,Vegan
+67792,5,suet mix,Vegan
+68101,8,bisquick clone,Vegan
+68259,1,rolled barley,Vegan
+68268,1,canned chanterelles,Vegan
+68268,2,noilly prat,Vegan
+68271,8,opal basil,Vegan
+68331,6,neighborhood recipe pizza dough,Vegan
+68452,5,baba ghanoush,Vegan
+68454,5,regular grind coffee,Vegan
+68460,0,pomelo fruit,Vegan
+68567,9,dried prunes,Vegan
+68603,12,champagne grapes,Vegan
+68777,3,canned cranberries,Vegan
+68925,0,bitter melons,Vegan
+68925,2,black gram,Vegan
+68981,3,green onion stems,Vegan
+69027,0,mint vodka,Vegan
+69107,8,caramel cappuccino custard,Vegan
+69107,12,vegan caramel sauce,Vegan
+69164,0,abalone,Vegan
+69532,0,snoek,Vegan
+69609,1,jambalaya stuffing,Vegan
+69673,2,bermuda falernum,Vegan
+69689,0,fine graham cracker crumbs,Vegan
+69761,4,vegetarian salami,Vegan
+70001,1,cream of anything soup mix,Vegetarian
+70004,7,comice pears,Vegan
+70201,0,irish potatoes,Vegan
+70256,7,lamb stock cube,Omnivore
+70322,2,white lentils,Vegan
+70356,1,canned whole potatoes,Vegan
+70386,3,hot dry mustard,Vegan
+70556,15,homemade curry powder,Vegan
+70775,2,gluten free all purpose flour substitute,Vegan
+70809,1,grapefruit drink,Vegan
+71178,4,chili beans with chipotle pepper,Vegan
+71252,1,instant mashed potatoes with butter and herbs,Vegetarian
+71369,1,turkey fat,Omnivore
+71603,0,sourdough english muffin,Vegan
+71614,0,dried pasta shapes,Vegan
+71628,3,grapefruit section,Vegan
+71649,5,vegetarian chicken soup mix,Omnivore
+71689,0,crumb cake mix,Vegan
+71773,2,invert sugar,Vegan
+71846,5,dried shrimp paste,Vegan
+71952,4,red banana,Vegan
+72032,0,creamed shortening,Vegan
+72040,4,dried fine herb,Vegan
+72045,6,cottage roll,Vegan
+72132,6,garlic alfredo sauce,Vegan
+72157,4,vegan parmesan,Vegan
+72199,6,appenzeller cheese,Vegetarian
+72291,0,frozen baby carrots,Vegan
+72300,7,other shortening,Vegan
+72306,0,ham shanks,Omnivore
+72375,0,fresh ripe pineapple,Vegan
+72403,7,palm vinegar,Vegan
+72538,5,fatty pork,Omnivore
+72541,2,sour apples,Vegan
+72597,3,powdered alum,Vegan
+72771,2,miracle whip from mayonnaise,Vegetarian
+72799,14,mango salsa,Vegan
+72799,17,pico de gallo,Vegan
+72830,1,beef tip roast,Omnivore
+72996,6,small clam,Vegan
+73155,10,mimolette cheese,Vegetarian
+73204,7,baby butter beans,Vegetarian
+73221,6,elephant garlic,Vegan
+73225,2,yellow capsicums,Vegan
+73520,0,lime concentrate,Vegan
+73586,5,arrowroot flour,Vegan
+73667,0,black raspberries,Vegan
+73736,0,dried soybeans,Vegan
+73917,0,parrot bay coconut rum,Vegan
+74001,4,veal broth,Vegan
+74231,7,dry roasted sunflower seeds,Vegan
+74356,5,unsweetened pineapple slices,Vegan
+74441,5,finger lickin good bbq sauce,Vegan
+74502,2,pesto from the garden,Vegan
+74597,4,soymilk lite,Vegan
+74657,8,powdered turmeric,Vegan
+74726,1,buckwheat noodle,Vegan
+74880,6,tubetti pasta,Vegan
+75015,8,vegetarian vegetable soup,Vegan
+75094,9,glace de viande,Vegan
+75165,1,canned lychees,Vegan
+75242,6,vegetarian cheddar cheese,Vegetarian
+75364,1,thompson seedless grapes,Vegan
+75400,5,cheddar cheese cube,Vegetarian
